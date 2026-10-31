@@ -1,0 +1,961 @@
+sofifa_id,short_name,nationality_name,player_positions,age,height_cm,weight_kg,preferred_foot,pace,shooting,passing,dribbling,defending,physic
+158023,L. Messi,Argentina,"RW, ST, CF",34,170,72,Left,85.0,92.0,91.0,95.0,34.0,65.0
+153079,S. Agüero,Argentina,ST,33,173,70,Right,71.0,89.0,75.0,87.0,33.0,69.0
+183898,Á. Di María,Argentina,"RW, LW",33,180,69,Left,83.0,81.0,86.0,87.0,48.0,69.0
+211110,P. Dybala,Argentina,"CF, CAM",27,177,75,Left,84.0,86.0,86.0,90.0,40.0,60.0
+143076,A. Gómez,Argentina,"CAM, CF, CM",33,167,68,Right,87.0,78.0,84.0,87.0,39.0,55.0
+231478,L. Martínez,Argentina,ST,23,174,72,Right,84.0,81.0,72.0,85.0,48.0,84.0
+202811,E. Martínez,Argentina,GK,28,195,88,Right,,,,,,
+224334,M. Acuña,Argentina,"LB, LM",29,172,69,Left,76.0,74.0,82.0,87.0,79.0,82.0
+201399,M. Icardi,Argentina,ST,28,181,75,Right,69.0,83.0,65.0,77.0,36.0,69.0
+205632,L. Ocampos,Argentina,"LW, RW",26,188,84,Right,81.0,84.0,78.0,83.0,63.0,84.0
+214997,Á. Correa,Argentina,"ST, RM",26,171,70,Right,85.0,83.0,78.0,87.0,49.0,74.0
+178562,É. Banega,Argentina,"CDM, CM",33,174,75,Right,62.0,75.0,84.0,82.0,76.0,71.0
+211256,N. Tagliafico,Argentina,LB,28,172,65,Left,80.0,55.0,73.0,76.0,81.0,81.0
+212616,R. De Paul,Argentina,"CM, CF",27,180,70,Right,78.0,76.0,80.0,82.0,71.0,79.0
+232488,C. Romero,Argentina,CB,23,185,79,Right,76.0,46.0,52.0,61.0,83.0,84.0
+167664,G. Higuaín,Argentina,ST,33,186,89,Right,58.0,84.0,71.0,78.0,29.0,71.0
+192366,N. Otamendi,Argentina,CB,33,183,76,Right,63.0,57.0,62.0,59.0,83.0,81.0
+201095,A. Marchesín,Argentina,GK,33,188,84,Right,,,,,,
+207439,L. Paredes,Argentina,"CDM, CM",27,180,75,Right,66.0,71.0,83.0,79.0,76.0,79.0
+214979,J. Musso,Argentina,GK,27,191,93,Right,,,,,,
+215330,J. Correa,Argentina,"CF, ST, CAM",26,189,75,Right,84.0,75.0,77.0,85.0,39.0,69.0
+226226,G. Lo Celso,Argentina,"CM, CAM",25,177,68,Left,75.0,76.0,82.0,83.0,69.0,73.0
+190972,E. Salvio,Argentina,"RM, RW",30,173,71,Right,86.0,76.0,73.0,84.0,57.0,68.0
+193061,R. Pereyra,Argentina,"CM, LM, CF",30,182,77,Right,76.0,74.0,79.0,81.0,68.0,73.0
+196432,E. Pérez,Argentina,"CDM, CM",35,178,77,Right,68.0,66.0,77.0,77.0,77.0,78.0
+205849,E. Andrada,Argentina,GK,30,194,83,Right,,,,,,
+214584,F. Armani,Argentina,GK,34,189,88,Right,,,,,,
+215223,W. Benítez,Argentina,GK,28,191,93,Right,,,,,,
+215316,G. Rulli,Argentina,GK,29,189,84,Right,,,,,,
+176919,N. Guzmán,Argentina,GK,35,193,94,Right,,,,,,
+188042,M. Suárez,Argentina,"ST, LW",33,183,75,Right,79.0,77.0,77.0,83.0,44.0,75.0
+192906,L. Rodríguez,Argentina,"ST, CF",36,168,71,Right,68.0,82.0,76.0,83.0,43.0,70.0
+226162,E. Buendía,Argentina,RM,24,172,65,Right,73.0,73.0,80.0,81.0,64.0,67.0
+228520,E. Ávila,Argentina,"ST, RM",27,172,81,Left,81.0,81.0,65.0,78.0,44.0,83.0
+236506,M. Senesi,Argentina,CB,24,183,78,Left,61.0,39.0,63.0,71.0,81.0,78.0
+239301,L. Martínez,Argentina,"CB, LB, CDM",23,178,77,Left,71.0,58.0,73.0,76.0,79.0,80.0
+170368,E. Lamela,Argentina,"RM, CAM",29,184,80,Left,70.0,77.0,79.0,81.0,53.0,68.0
+173306,C. Ansaldi,Argentina,"LWB, LB, LM",34,181,76,Right,77.0,64.0,76.0,77.0,72.0,70.0
+191180,J. Pastore,Argentina,"CAM, CM",32,187,78,Right,64.0,73.0,80.0,78.0,52.0,50.0
+214766,C. Izquierdoz,Argentina,CB,32,185,88,Right,51.0,52.0,54.0,54.0,79.0,84.0
+215353,L. Alario,Argentina,ST,28,184,78,Right,63.0,78.0,58.0,74.0,30.0,75.0
+224254,C. Pavón,Argentina,"LW, RW, LM",25,174,78,Right,90.0,76.0,74.0,79.0,49.0,73.0
+225659,G. Rodríguez,Argentina,"CDM, CM",26,185,80,Right,54.0,56.0,66.0,66.0,80.0,77.0
+231340,G. Montiel,Argentina,"RB, RWB",24,175,70,Right,86.0,53.0,70.0,74.0,73.0,81.0
+158963,L. Biglia,Argentina,"CDM, CM",35,178,63,Right,41.0,63.0,78.0,77.0,75.0,64.0
+172114,D. Valeri,Argentina,"CAM, ST",35,178,73,Right,53.0,76.0,78.0,78.0,44.0,67.0
+183899,P. Piatti,Argentina,"RM, LM, LW",32,163,63,Left,82.0,74.0,74.0,78.0,47.0,56.0
+188988,M. Lanzini,Argentina,"CAM, CM, LM",28,167,59,Right,71.0,72.0,77.0,81.0,32.0,42.0
+190577,S. Blanco,Argentina,"LM, CF",33,168,68,Right,75.0,75.0,74.0,77.0,33.0,72.0
+193601,G. Pezzella,Argentina,CB,30,186,81,Right,54.0,49.0,47.0,57.0,79.0,73.0
+205186,P. Gazzaniga,Argentina,GK,29,196,90,Right,,,,,,
+214977,M. Kranevitter,Argentina,"CDM, CM",28,178,67,Right,70.0,49.0,71.0,71.0,73.0,77.0
+215057,I. Marcone,Argentina,"CDM, CM",31,182,79,Right,47.0,63.0,71.0,71.0,73.0,80.0
+215071,M. Casco,Argentina,"LB, RB, LM",33,170,69,Right,83.0,67.0,72.0,80.0,70.0,78.0
+215160,F. Angileri,Argentina,"LB, LWB",27,184,84,Left,80.0,68.0,74.0,74.0,70.0,79.0
+217196,J. Palomino,Argentina,CB,31,188,87,Left,46.0,32.0,55.0,59.0,79.0,81.0
+219391,G. Escalante,Argentina,"CDM, CM",28,182,76,Right,66.0,67.0,72.0,72.0,75.0,75.0
+219522,J. Ledesma,Argentina,GK,28,186,83,Right,,,,,,
+220287,J. Dinenno,Argentina,ST,26,186,83,Right,69.0,78.0,57.0,68.0,27.0,73.0
+227275,A. Rossi,Argentina,GK,25,195,95,Right,,,,,,
+227528,B. Romero,Argentina,"ST, RW, LW",30,178,73,Right,90.0,77.0,69.0,76.0,50.0,72.0
+231521,E. Palacios,Argentina,"CM, CDM, CAM",22,177,67,Right,55.0,73.0,74.0,77.0,72.0,71.0
+234468,E. Reynoso,Argentina,"CAM, LM",25,176,67,Left,66.0,65.0,78.0,79.0,57.0,67.0
+236441,F. Bustos,Argentina,"RB, RWB",25,167,66,Right,84.0,64.0,72.0,77.0,70.0,86.0
+240690,N. González,Argentina,"ST, LW",23,180,72,Left,87.0,71.0,64.0,82.0,45.0,60.0
+143121,J. Sosa,Argentina,"CM, CDM",36,179,72,Right,63.0,69.0,82.0,77.0,64.0,63.0
+146963,J. Pinola,Argentina,CB,38,180,79,Left,63.0,59.0,70.0,69.0,75.0,76.0
+152916,R. Sambueza,Argentina,"RM, CAM, RW",37,180,76,Left,66.0,72.0,79.0,78.0,47.0,71.0
+170719,D. Buonanotte,Argentina,CAM,33,161,57,Left,83.0,67.0,76.0,79.0,30.0,37.0
+179765,E. Vecchio,Argentina,"CAM, CM",32,178,80,Right,79.0,72.0,77.0,76.0,64.0,74.0
+188955,G. Bou,Argentina,"ST, CAM",31,178,80,Right,76.0,79.0,69.0,76.0,30.0,72.0
+212715,S. Palacios,Argentina,"RW, LW",29,163,69,Right,91.0,71.0,69.0,79.0,44.0,68.0
+214781,S. Romero,Argentina,ST,32,177,76,Right,70.0,75.0,72.0,77.0,47.0,74.0
+214988,L. Miranda,Argentina,"CM, CDM",27,173,70,Right,79.0,67.0,76.0,78.0,67.0,69.0
+215051,L. López,Argentina,CB,31,193,80,Right,62.0,52.0,50.0,61.0,78.0,75.0
+215064,J. Furch,Argentina,ST,31,188,88,Right,53.0,77.0,61.0,69.0,39.0,78.0
+215108,J. Buffarini,Argentina,RB,32,170,74,Right,86.0,60.0,67.0,75.0,70.0,82.0
+215119,L. Romero,Argentina,"CDM, CM",27,167,70,Right,74.0,64.0,73.0,75.0,73.0,73.0
+215270,L. Zelarayán,Argentina,CAM,29,172,70,Right,71.0,71.0,76.0,78.0,45.0,66.0
+226377,G. Martínez,Argentina,"CAM, RM, LM",28,172,75,Left,87.0,72.0,73.0,82.0,34.0,62.0
+228708,L. Martínez Quarta,Argentina,CB,25,183,78,Right,67.0,56.0,69.0,70.0,75.0,78.0
+228819,M. Vargas,Argentina,"LM, LW",24,168,66,Right,83.0,69.0,72.0,77.0,40.0,71.0
+235008,L. Robertone,Argentina,"CAM, CM, CDM",24,175,70,Right,85.0,72.0,74.0,79.0,68.0,72.0
+138703,A. D'Alessandro,Argentina,"CAM, RM",40,174,69,Left,42.0,71.0,80.0,75.0,38.0,50.0
+142707,L. López,Argentina,ST,38,174,74,Right,63.0,77.0,70.0,74.0,49.0,65.0
+152912,J. Sand,Argentina,ST,40,182,79,Right,51.0,79.0,62.0,68.0,37.0,70.0
+161938,M. Boselli,Argentina,ST,36,185,75,Right,55.0,76.0,64.0,69.0,39.0,75.0
+165536,G. Cabral,Argentina,CB,35,184,82,Right,33.0,33.0,52.0,56.0,76.0,77.0
+171828,I. Scocco,Argentina,ST,36,176,71,Right,70.0,79.0,73.0,80.0,35.0,64.0
+171975,G. Bergessio,Argentina,ST,36,179,74,Right,50.0,77.0,60.0,65.0,33.0,73.0
+173030,Ó. Trejo,Argentina,"CDM, CAM, CM",33,180,79,Right,71.0,72.0,75.0,78.0,69.0,77.0
+176376,I. Piatti,Argentina,"CAM, CM, LM",36,180,76,Right,64.0,75.0,73.0,78.0,53.0,60.0
+179847,F. Fazio,Argentina,CB,34,195,85,Right,35.0,40.0,53.0,55.0,77.0,75.0
+183895,M. Moralez,Argentina,"CAM, CM",34,158,56,Right,71.0,71.0,74.0,77.0,52.0,49.0
+188268,L. Acosta,Argentina,"LW, RW, LM",33,169,67,Right,83.0,70.0,71.0,77.0,52.0,62.0
+201862,M. Rojo,Argentina,"CB, LB",31,186,82,Left,65.0,59.0,66.0,63.0,74.0,68.0
+201988,F. Fernández,Argentina,CB,32,190,83,Right,47.0,30.0,55.0,54.0,76.0,74.0
+207441,L. Vietto,Argentina,"CAM, LM, ST",27,173,61,Right,75.0,71.0,73.0,80.0,45.0,64.0
+207471,F. Vázquez,Argentina,"CM, CAM, LM",32,187,82,Left,49.0,78.0,77.0,76.0,58.0,71.0
+207935,M. Dituro,Argentina,GK,34,191,86,Right,,,,,,
+207939,G. Pizarro,Argentina,"CDM, CM",31,185,78,Right,42.0,55.0,66.0,63.0,73.0,84.0
+210281,C. Pellerano,Argentina,"CDM, CM",39,184,74,Right,54.0,65.0,67.0,61.0,70.0,80.0
+211267,R. Centurión,Argentina,"RW, CAM, LW",28,174,71,Right,87.0,68.0,69.0,83.0,41.0,65.0
+212541,L. Vangioni,Argentina,LB,34,181,68,Left,77.0,63.0,69.0,70.0,71.0,74.0
+214763,P. Goltz,Argentina,CB,36,184,82,Right,55.0,55.0,66.0,60.0,75.0,81.0
+215061,D. Benedetto,Argentina,ST,31,177,75,Right,76.0,76.0,66.0,74.0,38.0,72.0
+215135,L. Sigali,Argentina,CB,34,181,74,Right,66.0,45.0,49.0,60.0,76.0,74.0
+215147,L. Giannetti,Argentina,CB,27,184,79,Right,71.0,34.0,55.0,56.0,76.0,77.0
+215202,L. Janson,Argentina,"LW, ST",26,169,67,Right,84.0,73.0,66.0,79.0,36.0,63.0
+215228,C. Lema,Argentina,CB,31,192,93,Right,35.0,49.0,56.0,41.0,76.0,82.0
+215251,G. Herrera,Argentina,GK,29,187,67,Left,,,,,,
+216700,M. Meza,Argentina,"RW, CAM, LM",28,181,80,Right,78.0,71.0,73.0,79.0,44.0,71.0
+216816,G. Simeone,Argentina,ST,25,181,81,Right,76.0,74.0,59.0,75.0,37.0,70.0
+219576,R. Battaglia,Argentina,"CM, CDM",29,187,79,Right,63.0,67.0,67.0,72.0,77.0,78.0
+221053,E. Gómez,Argentina,"LB, LWB",27,174,79,Left,81.0,57.0,67.0,72.0,68.0,75.0
+221125,S. Driussi,Argentina,"ST, LW",25,179,79,Right,81.0,74.0,71.0,74.0,26.0,69.0
+221634,L. Acosta,Argentina,"CAM, LM, LW",27,161,59,Right,79.0,67.0,70.0,82.0,46.0,56.0
+222511,E. Unsain,Argentina,GK,26,188,83,Right,,,,,,
+223061,F. Cervi,Argentina,LM,27,165,62,Left,88.0,65.0,68.0,79.0,48.0,55.0
+224065,D. Blanco,Argentina,"CM, RM",26,167,63,Right,83.0,67.0,75.0,81.0,66.0,66.0
+224510,W. Bou,Argentina,ST,27,174,74,Right,75.0,75.0,68.0,76.0,46.0,74.0
+224796,J. Rodríguez,Argentina,"CDM, CM",25,179,80,Right,59.0,61.0,63.0,67.0,73.0,77.0
+226379,M. Díaz,Argentina,GK,35,187,87,Right,,,,,,
+227591,A. Canelo,Argentina,"ST, LM, LW",29,178,80,Right,87.0,79.0,64.0,72.0,28.0,72.0
+229749,A. Barboza,Argentina,CB,26,193,70,Left,51.0,57.0,60.0,64.0,73.0,85.0
+232670,F. Zampedri,Argentina,ST,33,185,83,Right,68.0,78.0,55.0,71.0,29.0,76.0
+233029,R. Aliendro,Argentina,"CM, CDM",30,177,68,Right,77.0,68.0,72.0,78.0,73.0,76.0
+235467,M. Moreno,Argentina,"CM, RW, LW",26,168,65,Right,89.0,68.0,73.0,83.0,59.0,63.0
+236804,F. Medina,Argentina,CB,22,184,77,Left,78.0,33.0,60.0,68.0,76.0,75.0
+237221,J. Foyth,Argentina,"CB, RB, CDM",23,187,69,Right,66.0,45.0,67.0,72.0,76.0,73.0
+237819,N. Domínguez,Argentina,"CM, CDM",23,179,73,Right,75.0,66.0,70.0,75.0,71.0,77.0
+239837,A. Mac Allister,Argentina,"CAM, CM",22,174,72,Right,70.0,76.0,77.0,74.0,56.0,62.0
+241026,T. Chancalay,Argentina,"LM, RM",22,179,74,Right,81.0,74.0,73.0,76.0,40.0,60.0
+244206,N. Pérez,Argentina,CB,21,186,75,Right,61.0,25.0,46.0,45.0,76.0,74.0
+246191,J. Álvarez,Argentina,"RW, CF",21,170,71,Right,84.0,74.0,72.0,75.0,46.0,62.0
+165560,M. Ruben,Argentina,ST,34,178,75,Right,74.0,74.0,63.0,70.0,42.0,72.0
+184252,L. Pratto,Argentina,ST,33,188,91,Right,70.0,74.0,69.0,69.0,57.0,80.0
+188938,C. Álvarez,Argentina,GK,35,186,83,Right,,,,,,
+192371,F. Rinaudo,Argentina,"CDM, CM",34,176,74,Right,68.0,65.0,68.0,72.0,73.0,75.0
+199667,R. Funes Mori,Argentina,CB,30,186,79,Left,57.0,50.0,64.0,65.0,75.0,74.0
+200826,M. Quiroga,Argentina,ST,31,188,80,Left,67.0,70.0,51.0,68.0,29.0,81.0
+200875,E. Gigliotti,Argentina,ST,34,187,81,Right,49.0,76.0,59.0,68.0,41.0,80.0
+201953,J. Sánchez Miño,Argentina,"LB, CM, LM",31,177,74,Left,72.0,70.0,75.0,72.0,70.0,71.0
+203864,B. Zuculini,Argentina,"CDM, CM",28,182,77,Right,66.0,65.0,67.0,70.0,70.0,80.0
+203872,G. Hauche,Argentina,"LW, LM, RW",34,168,71,Right,83.0,71.0,70.0,75.0,43.0,67.0
+205633,L. Castro,Argentina,"CM, CAM, LM",32,182,76,Right,66.0,68.0,76.0,77.0,65.0,66.0
+207454,P. Rodríguez,Argentina,"LM, RM, RW",31,170,60,Right,87.0,69.0,68.0,77.0,29.0,42.0
+211269,G. Fernández,Argentina,"CAM, CM, LM",29,178,75,Right,70.0,69.0,74.0,75.0,65.0,70.0
+214665,J. Ramírez,Argentina,"CM, LM, LW",28,174,72,Left,76.0,70.0,71.0,78.0,62.0,66.0
+214971,F. Pizzini,Argentina,RM,27,178,78,Right,78.0,69.0,72.0,78.0,40.0,65.0
+215048,J. Burrai,Argentina,GK,30,188,82,Right,,,,,,
+215123,A. Aguerre,Argentina,GK,30,181,76,Right,,,,,,
+215148,M. Bíttolo,Argentina,"LB, LWB",31,170,62,Left,76.0,46.0,72.0,70.0,68.0,65.0
+215157,F. Lértora,Argentina,"CDM, CM",30,176,73,Right,63.0,60.0,67.0,68.0,74.0,78.0
+215322,J. Silva,Argentina,"LB, LWB, CB",27,179,72,Left,72.0,60.0,67.0,72.0,71.0,76.0
+216033,J. Broun,Argentina,GK,35,190,90,Right,,,,,,
+216036,R. Delgado,Argentina,"CB, LB",31,178,78,Left,80.0,65.0,72.0,74.0,72.0,81.0
+216054,N. Domínguez,Argentina,"CB, CDM",31,183,71,Right,58.0,61.0,70.0,69.0,74.0,74.0
+219536,I. Pussetto,Argentina,"ST, RM",25,180,74,Right,78.0,73.0,63.0,77.0,25.0,60.0
+220148,N. Orsini,Argentina,ST,26,191,92,Right,84.0,73.0,57.0,69.0,31.0,75.0
+220715,E. Ponce,Argentina,ST,24,180,80,Right,77.0,73.0,60.0,74.0,37.0,68.0
+222041,L. Boyé,Argentina,"ST, LW, CAM",25,183,79,Right,73.0,72.0,61.0,77.0,47.0,79.0
+223243,E. Aguilera,Argentina,CB,32,187,93,Right,62.0,49.0,53.0,44.0,77.0,80.0
+223248,J. Lucero,Argentina,ST,29,182,75,Right,77.0,71.0,61.0,70.0,34.0,68.0
+224348,L. Hoyos,Argentina,GK,32,183,76,Right,,,,,,
+226382,L. Villarruel,Argentina,"CDM, CM",30,173,74,Right,72.0,63.0,68.0,69.0,71.0,73.0
+226385,C. Espinoza,Argentina,RM,26,173,73,Right,83.0,65.0,70.0,74.0,43.0,65.0
+226765,L. Gamba,Argentina,"ST, LM",34,170,70,Right,88.0,73.0,70.0,77.0,28.0,62.0
+227274,D. Barbona,Argentina,"RM, LM",26,179,69,Right,80.0,65.0,72.0,72.0,38.0,67.0
+227785,C. Guanca,Argentina,"CAM, ST",28,174,78,Left,78.0,75.0,69.0,74.0,40.0,69.0
+231247,B. Cufré,Argentina,"LB, LWB, LM",24,179,82,Left,81.0,64.0,72.0,73.0,70.0,75.0
+231524,T. Pochettino,Argentina,"CM, CAM",25,180,72,Right,68.0,66.0,77.0,75.0,63.0,73.0
+232244,S. Ascacíbar,Argentina,"CDM, CM",24,168,70,Right,63.0,47.0,61.0,69.0,75.0,72.0
+232709,D. Batallini,Argentina,"RW, LW, RM",25,176,77,Right,79.0,70.0,67.0,77.0,55.0,72.0
+234458,C. Quintana,Argentina,CB,33,190,88,Left,51.0,32.0,47.0,49.0,75.0,81.0
+235047,J. Menéndez,Argentina,"RW, LW",27,164,63,Left,89.0,69.0,68.0,75.0,42.0,53.0
+236007,E. Barco,Argentina,"LM, CAM",22,165,65,Right,82.0,67.0,68.0,79.0,28.0,53.0
+236527,S. Cáseres,Argentina,"CDM, CM, CB",24,177,77,Right,65.0,55.0,68.0,71.0,68.0,78.0
+237604,A. Franco,Argentina,CB,24,183,77,Right,63.0,34.0,51.0,64.0,75.0,79.0
+242835,L. Balerdi,Argentina,CB,22,187,76,Right,71.0,36.0,57.0,64.0,75.0,75.0
+245371,T. Almada,Argentina,"CAM, LW, RW",20,171,62,Right,85.0,71.0,69.0,82.0,52.0,62.0
+246045,P. De la Vega,Argentina,"RW, LW, RM",20,177,71,Right,86.0,70.0,69.0,76.0,50.0,73.0
+110381,M. Rodríguez,Argentina,"LW, LM, ST",40,173,74,Right,64.0,74.0,76.0,75.0,44.0,64.0
+153060,J. Insaurralde,Argentina,CB,36,188,87,Left,55.0,52.0,58.0,57.0,71.0,80.0
+165531,I. Sosa,Argentina,"RM, RW, LM",34,177,70,Right,77.0,70.0,69.0,73.0,46.0,70.0
+167665,N. Domingo,Argentina,"CDM, CM, CB",36,174,70,Right,41.0,59.0,67.0,67.0,71.0,72.0
+172018,J. Maidana,Argentina,CB,35,185,86,Right,33.0,37.0,62.0,51.0,72.0,75.0
+173857,M. Andújar,Argentina,GK,37,194,86,Right,,,,,,
+186745,M. Pérez García,Argentina,"CAM, LM, RM",36,165,68,Left,72.0,68.0,73.0,76.0,44.0,61.0
+202331,F. Quignon,Argentina,"CDM, CM",28,174,75,Left,66.0,56.0,68.0,75.0,70.0,78.0
+206152,L. Aued,Argentina,"CM, CDM",34,178,69,Left,53.0,64.0,73.0,71.0,65.0,74.0
+207440,F. Fragapane,Argentina,"LM, CAM, RM",28,167,66,Right,88.0,67.0,68.0,77.0,36.0,54.0
+208054,L. Fernández,Argentina,"CF, LW",30,178,70,Right,79.0,74.0,70.0,73.0,42.0,71.0
+210814,J. Velázquez,Argentina,CB,30,184,84,Right,62.0,43.0,49.0,53.0,75.0,78.0
+212214,A. Solari,Argentina,"RM, LM, CM",29,176,70,Right,86.0,64.0,70.0,74.0,58.0,74.0
+213272,L. Cháves,Argentina,GK,25,178,75,Right,,,,,,
+213581,M. Nervo,Argentina,"CB, RB",30,183,81,Right,52.0,43.0,56.0,56.0,72.0,81.0
+214770,D. González,Argentina,CM,33,178,73,Right,66.0,65.0,70.0,71.0,68.0,79.0
+214955,E. Mas,Argentina,LB,32,180,73,Left,77.0,60.0,66.0,69.0,70.0,77.0
+214968,F. Mancuello,Argentina,CM,32,175,70,Left,65.0,64.0,77.0,71.0,57.0,66.0
+214986,F. Meza,Argentina,CB,31,176,74,Right,71.0,38.0,60.0,66.0,73.0,72.0
+215069,R. Rey,Argentina,GK,30,188,78,Right,,,,,,
+215076,L. Faravelli,Argentina,"CM, CDM, CAM",28,172,75,Right,78.0,71.0,70.0,71.0,68.0,64.0
+215132,S. Moyano,Argentina,GK,30,188,78,Right,,,,,,
+215332,C. Auzqui,Argentina,"ST, RM, CAM",30,180,72,Right,84.0,71.0,68.0,72.0,51.0,82.0
+216692,S. Torrico,Argentina,GK,41,183,84,Right,,,,,,
+222428,J. Komar,Argentina,CB,24,190,83,Right,66.0,36.0,53.0,54.0,73.0,79.0
+223241,M. Benítez,Argentina,"LB, CM",30,178,73,Left,73.0,67.0,74.0,71.0,67.0,80.0
+223593,J. Correa,Argentina,ST,28,184,86,Right,65.0,73.0,52.0,70.0,31.0,78.0
+224461,W. Montoya,Argentina,"RM, RW, CM",27,173,72,Right,79.0,61.0,69.0,74.0,52.0,68.0
+226378,R. Ábila,Argentina,ST,31,176,93,Right,62.0,72.0,57.0,69.0,29.0,82.0
+227803,E. Martínez,Argentina,"LM, RM, CAM",27,169,67,Right,79.0,64.0,68.0,75.0,36.0,57.0
+228179,A. Castro,Argentina,"CM, CF",26,183,71,Left,77.0,71.0,72.0,77.0,64.0,67.0
+228415,L. Godoy,Argentina,"RB, RWB",26,173,70,Right,76.0,57.0,66.0,74.0,68.0,77.0
+229595,L. Rodríguez,Argentina,"LM, CAM, CM",24,168,64,Right,78.0,60.0,67.0,77.0,56.0,62.0
+232646,C. Bravo,Argentina,LB,24,170,69,Left,73.0,50.0,64.0,73.0,71.0,68.0
+233084,N. Molina,Argentina,"RWB, RM",23,175,70,Right,78.0,64.0,67.0,72.0,68.0,66.0
+234100,G. Escobar,Argentina,"LB, LWB",24,171,70,Left,81.0,49.0,65.0,69.0,68.0,75.0
+235176,C. Bernardi,Argentina,"RM, LM, CM",31,177,73,Right,79.0,71.0,68.0,76.0,50.0,61.0
+237122,T. Guidara,Argentina,"RB, RWB",25,173,70,Right,81.0,41.0,62.0,67.0,67.0,77.0
+238194,N. Bustos,Argentina,"ST, RM, LM",22,176,64,Right,80.0,73.0,66.0,76.0,33.0,68.0
+238332,E. Copetti,Argentina,"ST, RW",25,180,88,Right,81.0,72.0,62.0,69.0,48.0,86.0
+240744,M. Ojeda,Argentina,"RM, LM",22,179,78,Left,81.0,71.0,69.0,74.0,33.0,59.0
+240953,N. Tenaglia,Argentina,"RB, CB",25,181,70,Right,72.0,43.0,63.0,72.0,71.0,76.0
+242287,F. Ortega,Argentina,"LB, LWB, LW",22,177,75,Left,88.0,58.0,67.0,76.0,63.0,77.0
+244950,J. Rodríguez,Argentina,CB,27,185,81,Right,69.0,39.0,59.0,64.0,72.0,77.0
+246423,L. Orellano,Argentina,RW,21,177,66,Left,90.0,70.0,61.0,78.0,33.0,59.0
+246870,E. Díaz,Argentina,LB,25,175,74,Left,71.0,48.0,68.0,71.0,71.0,74.0
+247090,E. Fernández,Argentina,CM,20,180,77,Right,72.0,60.0,73.0,73.0,70.0,74.0
+247150,A. Vigo,Argentina,"RB, RWB",22,175,74,Right,83.0,51.0,65.0,73.0,68.0,69.0
+247450,A. Palavecino,Argentina,"CM, CAM",24,179,74,Right,74.0,65.0,74.0,74.0,56.0,63.0
+251132,E. Piovi,Argentina,"CDM, CM",28,171,70,Right,73.0,60.0,69.0,69.0,70.0,70.0
+251886,A. Frías,Argentina,CB,23,180,77,Right,69.0,34.0,59.0,66.0,73.0,76.0
+252238,A. Velasco,Argentina,"LM, LW, ST",18,167,63,Right,79.0,66.0,66.0,80.0,52.0,54.0
+142962,E. Bologna,Argentina,GK,39,189,87,Right,,,,,,
+152997,D. Cvitanich,Argentina,"ST, CAM",37,177,70,Right,56.0,70.0,66.0,72.0,37.0,67.0
+156483,C. Lucchetti,Argentina,GK,43,182,74,Right,,,,,,
+167435,O. Ustari,Argentina,GK,34,183,76,Right,,,,,,
+177299,A. Gabbarini,Argentina,GK,35,184,83,Right,,,,,,
+184626,N. Sánchez,Argentina,CB,35,185,82,Right,38.0,52.0,59.0,60.0,70.0,82.0
+186405,F. Di Santo,Argentina,ST,32,193,88,Right,68.0,71.0,66.0,70.0,45.0,76.0
+192373,M. Caraglio,Argentina,ST,32,187,92,Left,41.0,74.0,61.0,68.0,27.0,79.0
+198145,S. Araujo,Argentina,ST,29,180,76,Right,74.0,75.0,61.0,73.0,33.0,59.0
+199387,P. Chavarría,Argentina,"ST, RM",33,185,80,Right,67.0,72.0,68.0,73.0,36.0,76.0
+204555,R. Álvarez,Argentina,"CM, CAM",33,188,82,Left,64.0,67.0,77.0,80.0,55.0,65.0
+213582,A. Ruiz,Argentina,"CAM, CF, ST",27,183,77,Left,54.0,72.0,74.0,75.0,34.0,68.0
+214937,L. Villalba,Argentina,"LB, CB",26,180,75,Left,82.0,56.0,69.0,70.0,66.0,67.0
+214973,L. Villafañez,Argentina,"CAM, RW, LW",29,171,65,Right,76.0,67.0,71.0,74.0,34.0,50.0
+214983,M. Ibáñez,Argentina,GK,34,190,88,Right,,,,,,
+215010,E. Brítez,Argentina,"CB, LB, RB",29,180,75,Right,74.0,51.0,59.0,63.0,71.0,81.0
+215050,D. Braghieri,Argentina,CB,34,186,79,Left,58.0,49.0,50.0,56.0,71.0,79.0
+215062,E. Zelaya,Argentina,ST,33,186,75,Right,72.0,75.0,58.0,63.0,33.0,76.0
+215079,P. Pérez,Argentina,"CM, CDM",35,179,75,Right,56.0,66.0,73.0,71.0,69.0,75.0
+215089,E. Kalinski,Argentina,"CDM, CM",34,184,86,Right,60.0,51.0,70.0,69.0,69.0,77.0
+215144,E. Insúa,Argentina,"LB, LWB, LM",30,182,81,Left,73.0,58.0,62.0,67.0,70.0,75.0
+215162,A. Donatti,Argentina,CB,34,192,86,Right,40.0,59.0,53.0,52.0,73.0,73.0
+215331,L. Jara,Argentina,"RB, RM",30,183,80,Right,70.0,51.0,65.0,69.0,68.0,74.0
+216019,D. Musto,Argentina,CDM,34,182,80,Right,44.0,49.0,65.0,61.0,69.0,75.0
+217805,A. Martín Arias,Argentina,GK,28,185,79,Right,,,,,,
+219167,S. Vittor,Argentina,"CB, CDM",32,189,86,Right,45.0,61.0,66.0,62.0,71.0,79.0
+219688,Marcos Mauro,Argentina,CB,30,190,84,Right,55.0,42.0,55.0,54.0,73.0,72.0
+221250,G. Poblete,Argentina,"CDM, CM",28,173,71,Right,67.0,51.0,65.0,68.0,67.0,76.0
+222022,L. Di Plácido,Argentina,"RB, RWB, RM",27,176,72,Right,86.0,60.0,63.0,74.0,65.0,72.0
+223097,F. Cristaldo,Argentina,"CM, RM",24,170,69,Right,75.0,67.0,69.0,73.0,60.0,69.0
+223206,C. Ortiz,Argentina,"CF, ST, LM",28,169,70,Right,76.0,69.0,67.0,71.0,42.0,57.0
+223247,N. Acevedo,Argentina,"CM, CDM",32,170,73,Right,64.0,55.0,74.0,72.0,63.0,82.0
+223495,I. Rossi,Argentina,"CDM, CM",27,183,75,Left,69.0,52.0,64.0,66.0,69.0,66.0
+224104,D. Martínez,Argentina,"RB, RM",31,177,71,Right,74.0,65.0,64.0,72.0,67.0,74.0
+226086,Á. González,Argentina,"RW, ST, RM",27,169,70,Right,84.0,69.0,64.0,73.0,48.0,65.0
+226419,F. Sambueza,Argentina,"CAM, RM",32,170,65,Right,75.0,66.0,73.0,73.0,37.0,49.0
+226772,J. Laso,Argentina,"CB, RB",30,185,80,Right,64.0,41.0,51.0,55.0,69.0,83.0
+226797,V. Malcorra,Argentina,"LM, LWB",33,170,70,Left,75.0,65.0,73.0,75.0,59.0,71.0
+226798,M. Martínez,Argentina,"CB, CDM",28,183,80,Right,63.0,54.0,64.0,64.0,71.0,78.0
+231070,B. Pittón,Argentina,"LB, LM",28,174,70,Left,74.0,66.0,69.0,65.0,66.0,64.0
+232514,G. Carabajal,Argentina,"LM, CAM",29,176,72,Right,72.0,70.0,71.0,73.0,42.0,65.0
+232729,C. Tarragona,Argentina,ST,30,180,77,Right,83.0,71.0,53.0,70.0,43.0,80.0
+233372,B. Merlini,Argentina,"LM, LW, RM",25,179,71,Right,83.0,65.0,68.0,75.0,41.0,56.0
+233924,M. Lovera,Argentina,"LM, CAM, ST",22,170,65,Right,87.0,61.0,63.0,79.0,31.0,62.0
+237248,G. Berterame,Argentina,"LM, ST, RM",22,178,72,Right,77.0,67.0,65.0,71.0,33.0,68.0
+240963,J. García,Argentina,ST,28,181,82,Right,76.0,72.0,49.0,66.0,37.0,77.0
+240970,M. Payero,Argentina,CM,22,182,78,Right,70.0,59.0,74.0,73.0,61.0,69.0
+241025,L. Heredia,Argentina,"RM, ST, LM",25,185,79,Right,66.0,70.0,68.0,73.0,35.0,67.0
+241031,F. Garcés,Argentina,CB,21,188,82,Right,60.0,37.0,52.0,55.0,73.0,77.0
+241607,T. Belmonte,Argentina,"CM, CDM",23,178,68,Right,68.0,65.0,66.0,73.0,70.0,77.0
+242571,C. Rotondi,Argentina,"LM, LW",24,184,73,Left,79.0,66.0,64.0,74.0,54.0,65.0
+245138,G. Galoppo,Argentina,CM,22,179,73,Right,68.0,70.0,69.0,69.0,61.0,68.0
+246145,I. Aliseda,Argentina,"LM, CAM",21,169,69,Right,87.0,62.0,62.0,77.0,39.0,60.0
+246469,A. Urzi,Argentina,"LM, CM, RM",21,168,61,Left,85.0,63.0,64.0,74.0,36.0,58.0
+251127,F. Torrent,Argentina,RB,29,173,72,Right,85.0,51.0,62.0,70.0,64.0,77.0
+251139,J. Soraire,Argentina,CM,32,175,70,Right,75.0,61.0,72.0,76.0,62.0,83.0
+252168,M. Brizuela,Argentina,"CB, LB",24,181,72,Left,61.0,37.0,56.0,55.0,70.0,79.0
+253012,L. Morales,Argentina,GK,21,187,76,Right,,,,,,
+253341,R. Schunke,Argentina,CB,29,185,78,Right,59.0,34.0,52.0,55.0,70.0,79.0
+256287,F. Farías,Argentina,"ST, CF",18,173,73,Right,82.0,71.0,66.0,76.0,35.0,66.0
+139064,L. Ponzio,Argentina,"CDM, CB",39,174,71,Right,47.0,58.0,69.0,65.0,72.0,67.0
+142721,M. Barovero,Argentina,GK,37,182,74,Right,,,,,,
+142762,J. Bottinelli,Argentina,CB,36,180,79,Left,36.0,38.0,60.0,60.0,69.0,72.0
+142966,J. Dátolo,Argentina,"CAM, CM",37,179,77,Left,52.0,73.0,73.0,71.0,47.0,55.0
+143587,F. Belluschi,Argentina,"CM, CAM",37,173,78,Right,52.0,72.0,74.0,74.0,63.0,59.0
+143598,L. Pocrnjic,Argentina,GK,39,192,86,Right,,,,,,
+167669,F. Higuaín,Argentina,CAM,36,173,75,Right,44.0,70.0,74.0,70.0,42.0,55.0
+176920,M. Torrén,Argentina,CB,32,176,70,Right,67.0,45.0,58.0,57.0,72.0,75.0
+177537,N. Bertolo,Argentina,"LM, LW, RM",35,181,77,Right,59.0,70.0,74.0,71.0,38.0,66.0
+178566,J. García,Argentina,GK,34,182,78,Right,,,,,,
+191488,L. Orbán,Argentina,"CB, LB",32,179,76,Left,66.0,51.0,60.0,61.0,69.0,78.0
+198347,F. Jara,Argentina,ST,32,180,77,Right,74.0,72.0,65.0,71.0,29.0,72.0
+199669,L. González Pirez,Argentina,CB,29,185,80,Right,68.0,48.0,62.0,67.0,69.0,80.0
+200653,G. Burdisso,Argentina,CB,32,189,82,Right,45.0,43.0,54.0,53.0,70.0,78.0
+206154,H. Canteros,Argentina,"CAM, CM, CDM",32,176,80,Right,67.0,67.0,73.0,70.0,64.0,72.0
+210950,P. De Blasis,Argentina,"LM, RM, ST",33,166,65,Right,72.0,71.0,68.0,76.0,63.0,50.0
+211263,L. Magallán,Argentina,CB,27,185,83,Right,51.0,38.0,52.0,58.0,71.0,79.0
+211489,J. Gómez,Argentina,"CAM, LM, CM",31,171,68,Right,72.0,67.0,70.0,74.0,37.0,63.0
+214659,N. Freire,Argentina,CB,27,186,80,Left,43.0,29.0,42.0,48.0,73.0,72.0
+214772,N. Pasquini,Argentina,"LB, LWB",30,172,76,Left,77.0,59.0,72.0,63.0,66.0,71.0
+215015,B. Bianchi,Argentina,CB,32,183,76,Right,59.0,35.0,54.0,56.0,73.0,73.0
+215070,G. Ortíz,Argentina,CB,28,183,76,Right,65.0,41.0,48.0,48.0,71.0,77.0
+215117,L. Desábato,Argentina,"CDM, CM",31,178,78,Right,66.0,52.0,67.0,63.0,68.0,78.0
+215165,C. Rius,Argentina,RM,32,175,71,Right,75.0,63.0,70.0,75.0,55.0,65.0
+215181,G. Peruzzi,Argentina,"RB, RWB",29,178,71,Right,74.0,49.0,64.0,69.0,66.0,71.0
+215262,F. Márquez,Argentina,ST,33,184,86,Right,70.0,70.0,62.0,66.0,38.0,70.0
+215334,G. Carrillo,Argentina,ST,30,191,87,Right,46.0,74.0,54.0,70.0,39.0,72.0
+219174,R. Carrera,Argentina,"RM, LM",27,182,70,Right,80.0,64.0,66.0,69.0,42.0,68.0
+219452,J. Fernández,Argentina,"CDM, CM",26,180,78,Right,67.0,54.0,61.0,68.0,69.0,76.0
+220128,J. Cristaldo,Argentina,ST,32,174,73,Right,74.0,70.0,64.0,74.0,29.0,70.0
+220609,V. Vada,Argentina,"LM, CAM, CM",25,175,70,Right,61.0,64.0,73.0,71.0,66.0,73.0
+221990,Y. Cabral,Argentina,CB,29,188,84,Right,41.0,29.0,46.0,44.0,73.0,69.0
+222644,Y. Asad,Argentina,"LM, CAM",26,178,82,Right,75.0,69.0,67.0,74.0,55.0,67.0
+223498,E. Cecchini,Argentina,"CDM, CM",24,180,77,Right,65.0,65.0,68.0,68.0,71.0,71.0
+223879,L. Ramos,Argentina,ST,31,185,84,Left,68.0,73.0,54.0,66.0,32.0,78.0
+224459,V. Salazar,Argentina,"RB, RWB",28,175,67,Right,87.0,48.0,57.0,69.0,64.0,70.0
+225289,N. Fernández,Argentina,"ST, LW, RW",25,165,66,Right,85.0,70.0,60.0,74.0,31.0,58.0
+226811,F. Soldano,Argentina,ST,26,180,76,Right,69.0,69.0,53.0,69.0,43.0,76.0
+227186,A. Batalla,Argentina,GK,25,185,87,Right,,,,,,
+228838,E. Remedi,Argentina,"CDM, CM",26,169,77,Right,54.0,50.0,63.0,64.0,66.0,83.0
+229537,T. Cardona,Argentina,CB,25,185,77,Left,50.0,41.0,47.0,57.0,69.0,82.0
+231360,J. Elías,Argentina,"CM, CDM",25,175,69,Right,68.0,57.0,69.0,69.0,70.0,74.0
+232255,A. Bouzat,Argentina,"RW, LW",27,169,72,Left,86.0,60.0,67.0,74.0,54.0,63.0
+232517,N. Silva,Argentina,"LM, CAM, RM",31,163,58,Right,87.0,60.0,67.0,73.0,23.0,41.0
+232692,G. Acosta,Argentina,"CM, RM, RB",32,185,84,Right,67.0,69.0,68.0,72.0,61.0,75.0
+233057,F. Troyansky,Argentina,"ST, LM",24,178,77,Left,75.0,70.0,69.0,72.0,35.0,73.0
+233230,K. Mac Allister,Argentina,"LB, RB, CB",23,175,72,Right,71.0,42.0,56.0,65.0,71.0,66.0
+233292,M. Barbieri,Argentina,CB,27,182,80,Right,62.0,34.0,42.0,52.0,70.0,70.0
+236287,N. Ibáñez,Argentina,ST,26,178,80,Right,73.0,69.0,55.0,66.0,34.0,71.0
+237291,G. Blanco Leschuk,Argentina,ST,29,190,88,Right,66.0,70.0,54.0,66.0,35.0,78.0
+239491,J. Álvarez,Argentina,"RM, RW",25,176,72,Right,77.0,61.0,65.0,72.0,38.0,62.0
+240956,M. Melluso,Argentina,LB,23,170,63,Left,74.0,44.0,61.0,69.0,67.0,62.0
+241696,H. De La Fuente,Argentina,RB,24,177,73,Right,84.0,60.0,61.0,71.0,63.0,78.0
+241872,S. Barreto,Argentina,CB,22,183,77,Right,72.0,30.0,43.0,50.0,70.0,76.0
+242019,A. Lotti,Argentina,"ST, LM",25,179,70,Right,76.0,71.0,55.0,71.0,26.0,63.0
+245055,A. Moreno,Argentina,CM,22,177,70,Right,73.0,66.0,71.0,74.0,50.0,59.0
+245156,F. Russo,Argentina,CB,26,185,78,Right,66.0,30.0,50.0,48.0,74.0,71.0
+246667,J. Novillo,Argentina,CB,23,190,85,Left,64.0,34.0,43.0,49.0,70.0,80.0
+251213,C. Vega,Argentina,"CDM, CM",27,178,70,Right,68.0,60.0,65.0,65.0,67.0,72.0
+256167,E. Cañete,Argentina,CM,22,175,74,Right,71.0,70.0,70.0,71.0,50.0,68.0
+143025,E. Papa,Argentina,"LB, LWB, CDM",39,169,67,Left,70.0,47.0,72.0,70.0,65.0,65.0
+179696,E. Insúa,Argentina,"LB, LWB, CB",32,180,79,Left,61.0,60.0,65.0,69.0,67.0,74.0
+183893,C. Yacob,Argentina,"CDM, CM",33,181,73,Right,41.0,59.0,59.0,63.0,70.0,71.0
+186695,E. Muñoz,Argentina,CB,30,185,81,Right,52.0,31.0,49.0,52.0,70.0,73.0
+186977,O. Merlo,Argentina,CB,35,185,80,Right,54.0,35.0,51.0,46.0,68.0,75.0
+193141,I. Pillud,Argentina,RB,35,178,82,Right,65.0,50.0,65.0,62.0,69.0,78.0
+193414,N. Colazo,Argentina,"LM, LWB, LW",30,175,71,Left,73.0,63.0,70.0,70.0,62.0,67.0
+198426,G. Castellani,Argentina,"CAM, CM, CDM",33,183,75,Right,65.0,66.0,73.0,72.0,60.0,76.0
+200278,S. García,Argentina,"CB, LB",32,191,88,Left,67.0,52.0,62.0,63.0,71.0,74.0
+210219,E. Herrera,Argentina,ST,34,186,75,Right,56.0,72.0,53.0,65.0,26.0,74.0
+211272,C. Corvalán,Argentina,"LWB, CB, LB",32,179,78,Left,65.0,49.0,62.0,64.0,68.0,76.0
+214660,L. Rodríguez,Argentina,"LB, LWB",27,169,68,Left,75.0,57.0,66.0,69.0,67.0,67.0
+214777,L. Díaz,Argentina,ST,29,182,80,Right,69.0,69.0,63.0,68.0,26.0,69.0
+214990,M. Catalán,Argentina,RB,28,172,70,Right,91.0,58.0,64.0,62.0,64.0,67.0
+214998,M. Bogado,Argentina,"CDM, CM",36,171,68,Right,55.0,66.0,70.0,67.0,64.0,67.0
+215042,G. Lezcano,Argentina,"RM, RW",34,170,67,Right,77.0,66.0,64.0,72.0,24.0,69.0
+215049,D. Pérez,Argentina,LB,32,168,65,Left,76.0,52.0,59.0,68.0,64.0,70.0
+215155,F. Zuqui,Argentina,"CM, RM, CDM",29,170,65,Right,69.0,64.0,69.0,72.0,65.0,66.0
+215213,A. Werner,Argentina,GK,25,191,85,Right,,,,,,
+215294,C. Menéndez,Argentina,ST,33,185,83,Right,60.0,70.0,60.0,69.0,38.0,71.0
+215995,E. Méndez,Argentina,"CDM, CB",32,186,82,Right,52.0,50.0,60.0,63.0,70.0,83.0
+216706,F. Mussis,Argentina,"CDM, CM",29,174,75,Right,67.0,61.0,67.0,66.0,68.0,76.0
+216802,J. Kaprof,Argentina,"ST, CAM, CF",26,169,71,Right,82.0,68.0,60.0,73.0,33.0,66.0
+218621,F. Sánchez,Argentina,"RB, RM, RWB",31,175,74,Right,84.0,60.0,61.0,69.0,65.0,68.0
+219525,E. Cerutti,Argentina,"RM, ST",29,179,75,Right,83.0,63.0,64.0,72.0,36.0,64.0
+219841,N. Figal,Argentina,"CB, RB",27,181,64,Right,69.0,43.0,61.0,68.0,69.0,75.0
+222585,F. Fydriszewski,Argentina,ST,28,186,76,Right,61.0,72.0,50.0,66.0,31.0,70.0
+222693,H. Fertoli,Argentina,"LM, RM, LW",26,174,63,Right,86.0,63.0,62.0,72.0,41.0,62.0
+223064,F. Noguera,Argentina,CB,28,193,97,Right,42.0,38.0,43.0,48.0,70.0,81.0
+224367,G. Lanaro,Argentina,CB,35,184,84,Right,40.0,34.0,49.0,48.0,69.0,77.0
+224524,E. Burgos,Argentina,CB,29,190,80,Right,46.0,35.0,48.0,53.0,69.0,82.0
+225282,J. Devecchi,Argentina,GK,25,188,83,Right,,,,,,
+226616,J. Galván,Argentina,CB,29,183,84,Right,62.0,53.0,63.0,62.0,66.0,81.0
+227530,D. Lemos,Argentina,"CDM, CM",32,178,65,Right,63.0,38.0,60.0,61.0,69.0,79.0
+227602,F. Álvarez,Argentina,"CAM, RM",28,184,75,Right,70.0,63.0,67.0,71.0,31.0,68.0
+227903,M. Romero,Argentina,ST,22,179,72,Right,77.0,71.0,49.0,64.0,31.0,71.0
+233034,J. Andrada,Argentina,"CDM, CM",26,183,77,Right,52.0,51.0,66.0,63.0,66.0,77.0
+235947,J. Brunetta,Argentina,"LM, ST, CAM",24,172,68,Right,69.0,71.0,73.0,69.0,46.0,58.0
+235987,I. Gómez,Argentina,"CDM, CM",24,167,60,Right,65.0,52.0,61.0,69.0,68.0,69.0
+236668,G. Rojas,Argentina,LB,24,178,68,Left,80.0,44.0,64.0,62.0,62.0,67.0
+237512,G. Togni,Argentina,"LWB, LW, LM",23,180,76,Left,81.0,65.0,66.0,72.0,62.0,69.0
+237712,V. Castellanos,Argentina,"ST, RW",22,178,74,Right,71.0,69.0,60.0,69.0,34.0,71.0
+241568,C. Ferreira,Argentina,"CM, CAM",21,175,69,Right,77.0,69.0,74.0,73.0,54.0,63.0
+242294,J. Cacciabue,Argentina,"CDM, CM, RM",23,173,73,Right,67.0,56.0,66.0,70.0,67.0,64.0
+243977,J. Herrera,Argentina,"ST, LW",29,175,75,Left,71.0,70.0,60.0,67.0,23.0,68.0
+244205,M. Salas,Argentina,"ST, RM",23,172,75,Left,71.0,71.0,66.0,73.0,27.0,65.0
+244987,M. Álvarez,Argentina,GK,32,185,86,Left,,,,,,
+245354,J. Paradela,Argentina,"CAM, CM, LM",22,179,71,Left,69.0,64.0,69.0,73.0,57.0,62.0
+245437,A. Gaich,Argentina,ST,22,190,79,Right,68.0,69.0,55.0,67.0,29.0,68.0
+246033,S. Sosa,Argentina,"CDM, CM",22,179,78,Right,61.0,57.0,61.0,65.0,66.0,75.0
+246106,A. Herrera,Argentina,"RB, RWB",22,180,71,Right,79.0,50.0,57.0,69.0,65.0,66.0
+246164,L. Valenti,Argentina,CB,22,188,80,Left,68.0,53.0,53.0,57.0,68.0,80.0
+246237,E. Bullaude,Argentina,"CAM, ST",20,184,80,Right,79.0,68.0,63.0,73.0,32.0,64.0
+246263,M. Weigandt,Argentina,RB,21,175,72,Right,77.0,36.0,52.0,69.0,67.0,75.0
+246885,N. Capaldo,Argentina,"CM, RB",22,177,73,Right,77.0,59.0,66.0,68.0,68.0,76.0
+247106,A. Bernabei,Argentina,"LB, LW, LM",20,169,65,Left,88.0,61.0,67.0,74.0,58.0,69.0
+247148,J. Segovia,Argentina,CB,32,185,89,Left,50.0,26.0,45.0,47.0,70.0,80.0
+247156,F. Mura,Argentina,"RB, LB",22,171,74,Right,81.0,53.0,59.0,68.0,66.0,64.0
+251138,F. Pereyra,Argentina,CB,31,186,82,Right,64.0,35.0,46.0,51.0,69.0,79.0
+251613,J. Cáceres,Argentina,"RB, RWB",21,173,62,Right,84.0,45.0,58.0,65.0,63.0,68.0
+252239,L. González,Argentina,"CM, CDM",21,169,68,Right,70.0,57.0,72.0,73.0,58.0,65.0
+258090,E. Meza,Argentina,RWB,22,175,72,Right,77.0,49.0,59.0,69.0,63.0,68.0
+258128,V. Larralde,Argentina,"RM, CM",20,170,63,Right,71.0,60.0,70.0,71.0,60.0,51.0
+259788,J. Portillo,Argentina,"CB, CM",21,182,75,Right,77.0,56.0,59.0,68.0,69.0,77.0
+259962,G. Del Prete,Argentina,"ST, CF",25,175,64,Left,66.0,71.0,50.0,68.0,27.0,56.0
+261082,C. Medina,Argentina,CM,19,178,70,Right,69.0,59.0,67.0,71.0,59.0,62.0
+48745,F. Coloccini,Argentina,CB,39,184,83,Right,32.0,54.0,59.0,60.0,71.0,64.0
+138798,G. Lux,Argentina,GK,39,185,77,Right,,,,,,
+142616,J. De Olivera,Argentina,GK,38,194,92,Right,,,,,,
+153066,L. Licht,Argentina,"LB, LWB, LM",40,174,72,Left,64.0,61.0,65.0,72.0,68.0,66.0
+184890,C. Chávez,Argentina,"CAM, LM",35,169,65,Right,73.0,66.0,67.0,72.0,44.0,60.0
+186553,M. Rodríguez,Argentina,RB,35,178,75,Right,71.0,61.0,65.0,68.0,65.0,72.0
+192370,M. Formica,Argentina,"CAM, CM",33,176,70,Right,70.0,68.0,68.0,72.0,40.0,54.0
+193602,M. Coronel,Argentina,CB,32,180,82,Right,50.0,44.0,50.0,49.0,69.0,71.0
+194885,C. Erbes,Argentina,"CDM, CM",31,172,72,Right,67.0,54.0,60.0,63.0,72.0,65.0
+205630,L. Abecasis,Argentina,RB,31,170,74,Right,82.0,50.0,63.0,67.0,64.0,76.0
+208158,F. Andrada,Argentina,ST,27,180,76,Right,75.0,73.0,63.0,67.0,27.0,67.0
+212747,T. Martínez,Argentina,"RM, CAM, CM",26,171,61,Left,70.0,62.0,69.0,72.0,44.0,51.0
+213433,F. Tobio,Argentina,CB,31,186,80,Right,58.0,30.0,53.0,45.0,67.0,79.0
+214784,J. Pereyra Díaz,Argentina,"RM, LM, ST",30,180,80,Right,76.0,56.0,61.0,71.0,49.0,65.0
+215066,F. Milo,Argentina,"LB, LM, CB",29,180,72,Left,79.0,60.0,64.0,73.0,63.0,73.0
+215074,H. Orzán,Argentina,"CM, CAM",33,177,74,Right,84.0,50.0,68.0,70.0,58.0,73.0
+215168,J. Garro,Argentina,"LM, ST, RM",28,179,71,Right,72.0,64.0,60.0,70.0,26.0,62.0
+215177,F. Cerro,Argentina,"CM, CDM",33,179,75,Right,67.0,60.0,65.0,70.0,65.0,79.0
+215266,L. Melano,Argentina,"RM, LM, ST",28,185,72,Right,81.0,67.0,61.0,68.0,33.0,67.0
+215358,M. Meli,Argentina,"CM, RM",29,178,70,Right,74.0,61.0,66.0,67.0,66.0,75.0
+216055,F. Carrizo,Argentina,"LM, RM, ST",30,174,70,Right,88.0,62.0,66.0,69.0,46.0,64.0
+219553,C. Aquino,Argentina,"CAM, RM, LM",29,178,73,Right,72.0,67.0,67.0,70.0,37.0,67.0
+219670,G. Piovi,Argentina,"CB, LB, LWB",26,180,70,Left,71.0,53.0,64.0,67.0,67.0,79.0
+219918,O. Cabral,Argentina,GK,36,186,82,Right,,,,,,
+220429,G. Campi,Argentina,CB,30,193,88,Left,41.0,46.0,61.0,61.0,69.0,77.0
+223240,G. Bettini,Argentina,"RB, RWB",28,171,74,Right,64.0,42.0,62.0,64.0,66.0,63.0
+224049,N. Breitenbruch,Argentina,"CB, RB",25,178,76,Right,74.0,40.0,59.0,65.0,68.0,76.0
+224137,M. Riquelme,Argentina,"ST, LW",32,179,60,Right,86.0,68.0,52.0,65.0,24.0,70.0
+224330,N. Stefanelli,Argentina,"ST, CAM, CF",26,166,71,Right,88.0,67.0,59.0,75.0,33.0,69.0
+225915,A. Fontana,Argentina,ST,25,174,70,Right,74.0,68.0,52.0,69.0,31.0,66.0
+226668,N. Mazzola,Argentina,ST,31,188,83,Right,50.0,70.0,57.0,65.0,36.0,81.0
+229209,J. Benítez,Argentina,"LW, LM",29,178,77,Left,80.0,64.0,60.0,71.0,39.0,71.0
+230871,R. Holgado,Argentina,ST,26,178,85,Right,70.0,71.0,56.0,67.0,30.0,66.0
+231507,A. Soto,Argentina,"LB, CB",27,177,73,Left,77.0,46.0,62.0,70.0,63.0,73.0
+232699,L. Comas,Argentina,"LM, RW, RM",26,172,70,Right,85.0,60.0,60.0,69.0,25.0,43.0
+232713,D. Sappa,Argentina,GK,26,193,90,Right,,,,,,
+232770,S. Colombatto,Argentina,"CM, CDM",24,179,71,Left,65.0,58.0,69.0,68.0,60.0,71.0
+232826,F. Mac Allister,Argentina,"CDM, CM",25,176,71,Right,68.0,47.0,66.0,70.0,66.0,64.0
+232832,L. Gómez,Argentina,"RB, CM, RM",25,163,66,Right,77.0,60.0,63.0,71.0,63.0,65.0
+233090,J. Torres,Argentina,"CF, RM",24,165,60,Left,85.0,61.0,62.0,77.0,35.0,52.0
+233825,N. Leguizamón,Argentina,ST,26,180,73,Right,71.0,68.0,59.0,69.0,30.0,71.0
+234108,G. Maroni,Argentina,"CAM, LW, LM",22,175,70,Right,76.0,55.0,66.0,76.0,43.0,55.0
+235827,G. Gudiño,Argentina,"RM, CM",28,170,67,Right,78.0,66.0,63.0,69.0,57.0,61.0
+235925,G. Gómez,Argentina,GK,25,190,88,Right,,,,,,
+240743,L. Sequeira,Argentina,"RM, ST, LM",26,172,69,Right,75.0,67.0,63.0,74.0,32.0,53.0
+241176,L. Vera,Argentina,"CM, CAM",24,164,60,Right,80.0,57.0,69.0,75.0,55.0,51.0
+241273,G. Risso Patrón,Argentina,"LB, LM",25,173,73,Left,78.0,37.0,56.0,64.0,65.0,65.0
+241467,F. Feuillassier,Argentina,"LM, RM",23,172,68,Right,73.0,65.0,64.0,70.0,29.0,57.0
+241850,M. Retegui,Argentina,ST,22,186,86,Right,61.0,68.0,52.0,65.0,33.0,72.0
+241927,J. Méndez,Argentina,"CDM, CM",24,177,69,Right,70.0,62.0,67.0,71.0,67.0,70.0
+241931,F. Moyano,Argentina,"CM, CDM",23,171,70,Right,68.0,54.0,67.0,70.0,65.0,71.0
+242002,G. Mainero,Argentina,"RW, ST, CF",26,177,66,Right,87.0,64.0,61.0,70.0,47.0,70.0
+242081,A. Almendra,Argentina,CM,21,182,78,Right,65.0,59.0,67.0,68.0,60.0,61.0
+242249,F. Vera,Argentina,"CM, CDM",21,179,74,Right,66.0,57.0,69.0,69.0,62.0,64.0
+242342,G. Lódico,Argentina,"CM, CAM",23,173,63,Right,76.0,58.0,70.0,75.0,55.0,57.0
+243170,F. Apaolaza,Argentina,ST,24,187,79,Right,68.0,70.0,51.0,62.0,35.0,66.0
+243477,T. Badaloni,Argentina,ST,21,186,82,Left,60.0,69.0,51.0,62.0,28.0,68.0
+244884,M. Pellegrini,Argentina,"LM, CM, RM",21,176,71,Left,82.0,62.0,61.0,71.0,49.0,56.0
+245148,M. Comba,Argentina,"RM, LM, CM",27,170,68,Right,71.0,68.0,65.0,68.0,33.0,55.0
+246335,F. Navarro,Argentina,"CDM, CM",21,170,69,Right,72.0,50.0,63.0,69.0,67.0,58.0
+246471,F. Girotti,Argentina,ST,22,190,84,Right,69.0,68.0,48.0,64.0,31.0,72.0
+251348,P. Cucchi,Argentina,ST,28,180,80,Right,78.0,67.0,61.0,69.0,37.0,71.0
+253030,F. Pérez,Argentina,"CM, RM",21,170,65,Right,69.0,61.0,66.0,68.0,64.0,64.0
+253139,S. Pierotti,Argentina,"CM, CAM",20,187,82,Right,70.0,69.0,68.0,71.0,57.0,68.0
+253951,F. Calderón,Argentina,CB,23,187,80,Right,60.0,32.0,45.0,52.0,68.0,80.0
+255256,F. Paredes,Argentina,"RB, CB, LB",22,175,73,Right,78.0,39.0,62.0,69.0,66.0,71.0
+259786,F. Vera,Argentina,"RWB, RB",23,178,75,Right,83.0,37.0,53.0,71.0,64.0,67.0
+259789,K. Zenón,Argentina,"LW, RM, LM",20,177,74,Left,81.0,66.0,64.0,74.0,42.0,55.0
+260599,A. Varela,Argentina,"CDM, CM",19,177,73,Right,67.0,50.0,67.0,67.0,62.0,65.0
+158984,H. Lamberti,Argentina,"CDM, CM",37,172,70,Right,60.0,55.0,56.0,60.0,66.0,73.0
+161703,E. Culio,Argentina,CM,37,176,78,Left,40.0,66.0,70.0,66.0,61.0,73.0
+188196,R. Noir,Argentina,"LM, LW, RM",34,174,65,Right,73.0,66.0,65.0,68.0,43.0,69.0
+191443,F. Mancinelli,Argentina,CB,39,181,80,Right,36.0,43.0,51.0,60.0,70.0,73.0
+198156,L. Marín,Argentina,"RB, CB, RM",29,183,81,Right,69.0,50.0,60.0,65.0,65.0,73.0
+204050,S. Vergini,Argentina,CB,32,191,83,Right,32.0,38.0,61.0,60.0,69.0,72.0
+204337,G. Núñez,Argentina,"LM, CAM, ST",33,180,81,Left,65.0,71.0,69.0,68.0,40.0,70.0
+205631,C. Insaurralde,Argentina,"LW, ST",29,180,72,Right,77.0,68.0,56.0,71.0,39.0,66.0
+207496,J. Sánchez Sotelo,Argentina,ST,33,180,81,Left,60.0,68.0,54.0,63.0,30.0,65.0
+208240,T. De Vincenti,Argentina,"CM, CAM",32,178,77,Right,73.0,69.0,72.0,71.0,49.0,60.0
+213619,S. Sáez,Argentina,ST,36,178,80,Right,64.0,67.0,49.0,67.0,25.0,68.0
+214594,M. Laba,Argentina,"CDM, CM",29,175,70,Right,67.0,50.0,61.0,64.0,65.0,74.0
+214776,Ó. Benítez,Argentina,"RM, LM, CDM",28,183,80,Right,76.0,62.0,64.0,70.0,56.0,74.0
+214965,C. Riaño,Argentina,ST,32,179,80,Right,70.0,66.0,61.0,68.0,22.0,66.0
+214993,P. Alvarado,Argentina,CB,35,180,70,Right,49.0,36.0,50.0,59.0,69.0,69.0
+215043,S. Pol,Argentina,"ST, RW, LW",33,175,78,Right,83.0,67.0,58.0,65.0,37.0,71.0
+215081,G. Hachen,Argentina,"ST, RM",30,168,68,Left,81.0,66.0,61.0,74.0,31.0,48.0
+215083,M. Urruti,Argentina,ST,30,184,75,Right,73.0,68.0,64.0,72.0,54.0,68.0
+215139,E. Olivera,Argentina,CB,31,176,73,Right,68.0,43.0,50.0,55.0,69.0,73.0
+215178,E. Godoy,Argentina,CB,27,185,79,Right,56.0,31.0,53.0,50.0,67.0,77.0
+215250,C. Rigamonti,Argentina,GK,34,188,87,Right,,,,,,
+215254,L. Lollo,Argentina,CB,34,184,86,Right,32.0,31.0,41.0,47.0,69.0,73.0
+215267,T. Figueroa,Argentina,ST,29,191,90,Left,31.0,70.0,50.0,59.0,32.0,77.0
+215309,L. Albertengo,Argentina,ST,30,185,75,Right,66.0,68.0,62.0,66.0,26.0,69.0
+215328,G. Gil Romero,Argentina,"CDM, CM",28,177,74,Right,68.0,53.0,60.0,64.0,65.0,73.0
+215343,A. Mehring,Argentina,GK,27,191,82,Right,,,,,,
+215351,G. Graciani,Argentina,"RM, RB",28,179,75,Right,77.0,64.0,62.0,69.0,49.0,76.0
+215355,F. Curuchet,Argentina,"ST, RW",31,175,69,Right,82.0,70.0,51.0,71.0,36.0,65.0
+219451,N. Paz,Argentina,"CB, LB",28,191,89,Left,40.0,41.0,51.0,54.0,70.0,74.0
+219575,C. Bordacahar,Argentina,"RW, ST, RM",29,183,70,Right,76.0,65.0,60.0,68.0,27.0,57.0
+220291,L. González,Argentina,"CB, LB",27,179,70,Left,73.0,43.0,56.0,63.0,66.0,77.0
+222066,L. Villalba,Argentina,"LM, RM",26,170,68,Right,65.0,65.0,68.0,69.0,46.0,51.0
+222587,F. Escobar,Argentina,"RB, CB",26,175,72,Right,71.0,47.0,57.0,67.0,66.0,68.0
+222889,L. Acevedo,Argentina,CB,29,197,97,Right,38.0,38.0,41.0,37.0,66.0,83.0
+224057,A. Farías,Argentina,"CM, CDM",33,177,72,Right,56.0,62.0,65.0,66.0,65.0,74.0
+224403,G. Alanís,Argentina,"LM, LB",27,186,73,Left,72.0,60.0,65.0,67.0,52.0,68.0
+227900,N. Tripichio,Argentina,"RB, CB",25,175,68,Right,78.0,50.0,63.0,70.0,61.0,68.0
+228375,M. Vera,Argentina,"CDM, CM",25,173,69,Right,67.0,45.0,59.0,62.0,67.0,67.0
+228711,B. Mansilla,Argentina,"LM, LW, ST",24,180,78,Left,90.0,62.0,57.0,71.0,43.0,67.0
+231212,E. Rolón,Argentina,"CDM, CM",26,178,70,Right,65.0,53.0,63.0,64.0,65.0,66.0
+232695,F. Sbuttoni,Argentina,CB,32,190,87,Left,47.0,31.0,47.0,45.0,68.0,77.0
+232708,M. Valenzuela,Argentina,LB,22,168,66,Left,73.0,44.0,63.0,68.0,64.0,68.0
+233780,A. Maldonado,Argentina,CB,23,187,85,Right,52.0,32.0,42.0,46.0,69.0,76.0
+235991,N. Cordero,Argentina,"ST, RW",22,184,78,Right,68.0,70.0,65.0,67.0,30.0,68.0
+236671,Á. Martino,Argentina,"LB, LM",23,178,73,Left,75.0,56.0,65.0,73.0,61.0,62.0
+237283,N. Reniero,Argentina,"ST, LW",26,183,77,Right,75.0,68.0,58.0,68.0,32.0,67.0
+237994,N. Barrios,Argentina,"LM, LW, CF",23,156,58,Right,82.0,61.0,63.0,75.0,39.0,43.0
+239590,R. González,Argentina,CB,30,183,80,Right,32.0,37.0,45.0,51.0,68.0,77.0
+239951,G. Asís,Argentina,"RB, RWB",25,174,65,Right,75.0,44.0,60.0,68.0,66.0,67.0
+240964,N. Linares,Argentina,CDM,25,175,72,Right,66.0,54.0,64.0,67.0,67.0,64.0
+241010,M. Ortíz,Argentina,"RB, CB",27,186,80,Right,66.0,25.0,52.0,58.0,64.0,70.0
+241632,B. Garré,Argentina,"LW, RW, RM",20,171,63,Left,83.0,58.0,61.0,76.0,37.0,55.0
+241930,F. Gattoni,Argentina,CB,22,183,72,Right,67.0,34.0,53.0,55.0,69.0,70.0
+242482,E. Coronel,Argentina,RB,24,173,72,Right,68.0,32.0,50.0,56.0,67.0,64.0
+243521,I. Erquiaga,Argentina,LB,23,176,72,Left,78.0,47.0,60.0,68.0,64.0,62.0
+243816,E. Iñíguez,Argentina,"RB, LB",24,177,70,Right,70.0,30.0,52.0,60.0,67.0,64.0
+251818,L. Requena,Argentina,GK,33,186,80,Left,,,,,,
+252044,L. Picco,Argentina,"CDM, CM",21,188,79,Right,54.0,50.0,59.0,62.0,64.0,72.0
+253242,A. Martínez,Argentina,ST,28,180,75,Left,71.0,64.0,49.0,64.0,34.0,77.0
+253908,M. Luna Diale,Argentina,"RW, RM, ST",22,173,71,Right,77.0,64.0,62.0,71.0,46.0,52.0
+254578,D. Ayala,Argentina,CDM,18,173,62,Left,72.0,45.0,62.0,67.0,63.0,58.0
+254587,M. Esquivel,Argentina,"CM, CAM",22,167,64,Left,84.0,66.0,70.0,73.0,52.0,62.0
+255886,F. Gerometta,Argentina,"RWB, RB",21,175,72,Right,76.0,50.0,56.0,68.0,62.0,66.0
+257338,R. Tesuri,Argentina,"RM, LM",25,166,60,Right,80.0,64.0,64.0,72.0,38.0,50.0
+260593,G. Abrego,Argentina,"CM, CDM",21,184,75,Right,65.0,51.0,66.0,68.0,58.0,76.0
+261275,M. Ramírez,Argentina,"LM, ST",22,183,76,Right,80.0,61.0,56.0,81.0,25.0,54.0
+262801,J. Bauman,Argentina,ST,30,178,74,Right,73.0,66.0,53.0,65.0,30.0,61.0
+142756,P. Toranzo,Argentina,"CAM, CM",39,178,73,Right,44.0,64.0,73.0,68.0,55.0,56.0
+153062,V. Figueroa,Argentina,"CAM, CM",37,168,63,Right,63.0,69.0,65.0,66.0,49.0,52.0
+178565,B. Urribarri,Argentina,LB,34,168,65,Left,72.0,45.0,63.0,65.0,61.0,60.0
+189451,A. Nahuelpan,Argentina,ST,33,190,92,Left,39.0,70.0,58.0,63.0,38.0,74.0
+198628,M. Hoyos,Argentina,"RM, LM",29,185,75,Right,71.0,63.0,63.0,66.0,38.0,67.0
+203862,H. Silva,Argentina,"RB, CB",29,176,77,Right,74.0,41.0,54.0,67.0,62.0,74.0
+210954,F. Parra,Argentina,ST,36,184,80,Right,62.0,64.0,54.0,65.0,30.0,67.0
+214697,N. Berardo,Argentina,"LB, CB",30,181,74,Left,66.0,46.0,63.0,58.0,63.0,76.0
+214765,M. Herrera,Argentina,CB,29,185,78,Right,64.0,45.0,55.0,57.0,65.0,77.0
+214972,F. Bravo,Argentina,"CDM, CM",27,185,71,Right,51.0,45.0,58.0,59.0,64.0,76.0
+215112,R. Contreras,Argentina,ST,25,184,81,Left,71.0,66.0,52.0,66.0,32.0,73.0
+218345,J. Zacaría,Argentina,"LM, LB, LW",31,172,76,Left,70.0,64.0,66.0,69.0,51.0,57.0
+220624,L. Acosta,Argentina,GK,26,187,84,Right,,,,,,
+226386,L. Sosa,Argentina,"CB, LB",27,185,71,Left,68.0,36.0,55.0,57.0,67.0,70.0
+228211,E. Ramírez,Argentina,"RM, ST, CAM",24,170,64,Right,80.0,68.0,60.0,68.0,27.0,53.0
+228961,M. Pittón,Argentina,"CM, CDM",26,181,70,Right,76.0,53.0,65.0,68.0,62.0,68.0
+229536,H. Tijanovich,Argentina,"LM, ST, RM",25,173,68,Right,78.0,66.0,59.0,68.0,35.0,61.0
+231219,B. Rivero,Argentina,"CDM, CM",25,178,74,Right,63.0,43.0,62.0,66.0,63.0,69.0
+231538,B. Blasi,Argentina,"RWB, RB, CB",25,180,75,Right,67.0,41.0,55.0,59.0,64.0,77.0
+232527,D. Schmidt,Argentina,CB,28,183,82,Right,64.0,37.0,41.0,54.0,68.0,71.0
+234107,E. Ojeda,Argentina,"CM, CDM",23,180,72,Right,64.0,52.0,65.0,68.0,62.0,69.0
+234223,L. Maciel,Argentina,"CM, CDM",25,178,72,Right,67.0,53.0,62.0,67.0,61.0,79.0
+235004,G. Suso,Argentina,CB,30,190,82,Left,51.0,32.0,36.0,45.0,69.0,74.0
+235946,S. Lomónaco,Argentina,"LM, ST",22,173,66,Right,79.0,68.0,57.0,71.0,27.0,56.0
+238037,N. Bazzana,Argentina,CB,25,181,77,Right,50.0,40.0,47.0,51.0,67.0,70.0
+240211,G. Gentile,Argentina,"LW, RW, LM",26,184,70,Right,77.0,62.0,64.0,67.0,46.0,63.0
+240640,L. Morales,Argentina,"CB, RB",30,180,72,Right,66.0,33.0,52.0,60.0,69.0,67.0
+240992,N. Estévez,Argentina,"CM, RM, CDM",25,181,75,Right,69.0,64.0,68.0,69.0,64.0,67.0
+241833,K. Gutiérrez,Argentina,"CDM, CM",24,168,65,Right,76.0,57.0,65.0,68.0,60.0,69.0
+243129,S. Callegari,Argentina,CB,24,188,83,Right,51.0,33.0,50.0,48.0,68.0,69.0
+244851,G. Guiffrey,Argentina,"CB, LB",23,182,74,Left,69.0,36.0,49.0,57.0,68.0,71.0
+244947,L. Pons,Argentina,ST,31,181,79,Right,54.0,69.0,50.0,61.0,22.0,66.0
+246107,M. Palacios,Argentina,CAM,19,168,73,Right,68.0,60.0,69.0,71.0,46.0,48.0
+248009,J. Rodríguez,Argentina,"CDM, CM",31,173,67,Right,70.0,62.0,69.0,69.0,62.0,63.0
+251149,A. Leguizamón,Argentina,CB,29,186,77,Right,55.0,33.0,50.0,47.0,67.0,72.0
+252036,N. Colombo,Argentina,CB,22,184,78,Right,60.0,39.0,48.0,51.0,67.0,73.0
+252193,R. Ruiz,Argentina,"LM, ST",21,184,76,Right,68.0,62.0,65.0,65.0,36.0,64.0
+252706,E. López,Argentina,RB,20,175,76,Right,83.0,45.0,60.0,71.0,59.0,71.0
+253920,L. Gómez,Argentina,ST,34,181,80,Right,66.0,66.0,54.0,64.0,26.0,65.0
+253953,G. González,Argentina,"LW, LM, LWB",20,186,78,Left,81.0,66.0,59.0,68.0,40.0,74.0
+254071,A. Blanco,Argentina,ST,33,187,85,Right,69.0,64.0,52.0,68.0,45.0,73.0
+254131,M. Miranda,Argentina,"CAM, CDM, RM",21,174,65,Left,69.0,59.0,66.0,68.0,56.0,53.0
+254344,M. Pardo,Argentina,"CAM, ST, RW",25,172,67,Right,79.0,60.0,62.0,70.0,24.0,51.0
+254585,J. Palacios,Argentina,"RM, CM",22,165,65,Right,76.0,60.0,64.0,68.0,54.0,59.0
+255197,N. Morgantini,Argentina,RB,26,175,70,Right,78.0,50.0,59.0,66.0,60.0,66.0
+256402,C. Alcaraz,Argentina,"CAM, CM, LM",18,176,70,Right,80.0,64.0,61.0,73.0,46.0,55.0
+259845,M. Santilli,Argentina,GK,37,187,85,Right,,,,,,
+260309,J. Pucheta,Argentina,GK,29,184,83,Right,,,,,,
+260377,A. Mulet,Argentina,"CM, CDM",21,179,70,Right,71.0,51.0,65.0,69.0,61.0,71.0
+179698,L. Grimi,Argentina,"LB, CB",36,183,74,Left,52.0,62.0,63.0,64.0,67.0,70.0
+184254,J. Ayala,Argentina,GK,33,184,85,Left,,,,,,
+199735,F. Vismara,Argentina,"CDM, CM",38,185,74,Right,51.0,44.0,60.0,58.0,62.0,68.0
+211262,M. Vicentini,Argentina,GK,30,187,86,Right,,,,,,
+214447,S. López,Argentina,"CM, CAM",32,178,72,Right,67.0,61.0,67.0,68.0,50.0,60.0
+215170,R. Salinas,Argentina,ST,34,188,81,Left,45.0,67.0,45.0,61.0,35.0,66.0
+215993,D. Miloc,Argentina,"CM, CDM",30,177,74,Right,60.0,46.0,61.0,64.0,66.0,78.0
+217201,E. Triverio,Argentina,ST,32,183,82,Right,43.0,68.0,52.0,67.0,30.0,73.0
+219529,N. Ferreyra,Argentina,CB,28,194,90,Right,34.0,29.0,38.0,44.0,66.0,76.0
+221595,J. Vogliotti,Argentina,ST,36,180,79,Right,53.0,71.0,49.0,56.0,25.0,59.0
+221955,J. Torres,Argentina,ST,24,187,73,Right,55.0,67.0,54.0,67.0,22.0,58.0
+224337,M. Orihuela,Argentina,"LB, LM",29,178,72,Left,68.0,50.0,62.0,67.0,62.0,55.0
+225924,D. Sosa,Argentina,"LW, CM",29,170,70,Right,73.0,59.0,61.0,70.0,40.0,47.0
+226675,F. Lanzillotta,Argentina,GK,28,185,80,Right,,,,,,
+227477,F. Altamirano,Argentina,GK,25,186,78,Right,,,,,,
+227526,G. Canto,Argentina,"CB, LB",27,180,70,Left,58.0,40.0,53.0,53.0,68.0,68.0
+232515,F. Cobos,Argentina,LB,28,178,78,Left,64.0,39.0,54.0,65.0,63.0,70.0
+232521,L. Merolla,Argentina,CB,26,193,85,Left,47.0,26.0,38.0,44.0,67.0,72.0
+232645,F. Cambeses,Argentina,GK,24,184,80,Right,,,,,,
+233887,J. Chicco,Argentina,"CDM, CM",23,186,73,Right,55.0,50.0,61.0,62.0,64.0,65.0
+235966,G. Goñi,Argentina,CB,22,187,83,Right,61.0,28.0,43.0,46.0,64.0,74.0
+236283,M. Borgnino,Argentina,"LW, LM",23,176,70,Left,83.0,63.0,60.0,71.0,31.0,61.0
+236415,R. Alfani,Argentina,CB,25,186,79,Right,61.0,33.0,47.0,46.0,66.0,66.0
+236803,W. Mazzantti,Argentina,"RW, RM",24,174,68,Right,80.0,64.0,54.0,68.0,21.0,59.0
+237031,B. Cuesta,Argentina,ST,32,180,76,Right,69.0,67.0,53.0,60.0,26.0,67.0
+238865,N. Ortiz,Argentina,CB,26,188,82,Right,61.0,30.0,50.0,43.0,65.0,64.0
+239219,S. Quiroga,Argentina,"CAM, CM",27,162,62,Right,75.0,55.0,65.0,70.0,60.0,58.0
+240468,L. Guzmán,Argentina,"RM, RW",21,171,67,Left,72.0,58.0,60.0,70.0,37.0,62.0
+240576,M. Ortíz,Argentina,RW,26,162,64,Right,75.0,56.0,67.0,70.0,44.0,43.0
+240969,J. Carranza,Argentina,ST,21,175,75,Right,68.0,65.0,54.0,67.0,33.0,62.0
+241566,N. Gallardo,Argentina,"LB, LWB",23,178,73,Left,69.0,41.0,64.0,67.0,61.0,70.0
+241605,F. Grahl,Argentina,"CM, CDM, CAM",29,180,75,Left,68.0,52.0,69.0,67.0,56.0,66.0
+242317,A. Antilef,Argentina,"CM, CAM",22,170,65,Left,85.0,59.0,64.0,73.0,53.0,63.0
+242343,N. Thaller,Argentina,CB,22,185,86,Right,52.0,31.0,47.0,49.0,68.0,69.0
+243519,V. Burgoa,Argentina,"CAM, LM",20,175,73,Left,78.0,55.0,59.0,72.0,54.0,60.0
+244869,G. Compagnucci,Argentina,RM,29,178,73,Right,75.0,58.0,61.0,64.0,34.0,57.0
+245249,M. Insaurralde,Argentina,"CM, CDM",22,176,70,Right,73.0,53.0,64.0,68.0,56.0,66.0
+245439,G. Ferrari,Argentina,"CB, RB",24,184,76,Right,68.0,40.0,55.0,57.0,64.0,73.0
+245461,F. Colidio,Argentina,"ST, CAM",21,179,68,Right,68.0,67.0,63.0,70.0,25.0,44.0
+246108,A. Díaz,Argentina,ST,21,172,73,Right,73.0,62.0,49.0,68.0,23.0,68.0
+246865,F. Quinteros,Argentina,LB,22,176,69,Left,67.0,42.0,54.0,63.0,63.0,56.0
+247467,G. Avila,Argentina,"CB, LB",19,182,75,Left,69.0,28.0,39.0,48.0,67.0,70.0
+251212,J. Bay,Argentina,"LB, LWB",28,179,79,Left,73.0,47.0,54.0,65.0,62.0,70.0
+252114,B. Rollheiser,Argentina,"RW, RM",21,175,71,Left,78.0,62.0,60.0,71.0,32.0,50.0
+255307,B. Martínez,Argentina,"RM, LM",21,170,75,Right,82.0,61.0,56.0,72.0,39.0,64.0
+255351,R. Villagra,Argentina,CDM,20,178,76,Right,66.0,47.0,62.0,64.0,61.0,70.0
+255386,T. Escalante,Argentina,CM,21,170,67,Right,72.0,58.0,65.0,70.0,56.0,59.0
+256616,T. Ortega,Argentina,LB,20,185,72,Left,72.0,36.0,54.0,67.0,63.0,66.0
+258180,S. Meza,Argentina,GK,21,185,78,Right,,,,,,
+258325,N. Castro,Argentina,"LW, LM, CM",30,181,79,Left,68.0,66.0,59.0,67.0,34.0,61.0
+258455,A. Cabrera,Argentina,"CDM, CM",28,185,85,Right,64.0,51.0,63.0,62.0,61.0,71.0
+258746,M. Braida,Argentina,"LM, LW, RW",24,175,72,Right,74.0,67.0,56.0,69.0,29.0,66.0
+259576,B. Aguirre,Argentina,"RB, LB",20,178,72,Right,68.0,37.0,47.0,59.0,65.0,68.0
+259790,I. Machuca,Argentina,"RM, LM",21,173,70,Right,80.0,54.0,59.0,72.0,40.0,50.0
+260708,M. García,Argentina,RB,22,175,65,Right,75.0,44.0,59.0,65.0,60.0,65.0
+261015,T. Palacios,Argentina,"RW, RM, LM",20,165,61,Right,76.0,56.0,64.0,72.0,55.0,53.0
+261097,A. Costa,Argentina,CB,21,179,74,Left,70.0,28.0,56.0,61.0,66.0,70.0
+261176,J. López,Argentina,ST,20,188,81,Left,54.0,67.0,48.0,61.0,32.0,62.0
+261182,J. Malatini,Argentina,RB,20,175,63,Right,70.0,31.0,57.0,65.0,61.0,59.0
+261436,I. Maggi,Argentina,ST,22,178,74,Right,76.0,66.0,51.0,65.0,28.0,60.0
+262566,F. Zabala,Argentina,"LB, LWB",22,171,65,Left,68.0,26.0,49.0,56.0,62.0,49.0
+172619,E. Gutiérrez,Argentina,"ST, CF, RW",35,183,84,Left,52.0,69.0,55.0,61.0,32.0,68.0
+181989,A. Ríos,Argentina,"ST, CAM, CM",31,178,78,Right,59.0,65.0,63.0,66.0,38.0,79.0
+213274,L. Ojeda,Argentina,GK,31,183,83,Right,,,,,,
+214940,S. Ojeda,Argentina,CB,29,183,72,Right,48.0,34.0,41.0,43.0,64.0,74.0
+215028,F. Montero,Argentina,"CM, CAM, CDM",32,167,68,Right,67.0,56.0,61.0,65.0,65.0,68.0
+215990,Ó. Benítez,Argentina,"CB, LB",30,186,72,Left,51.0,33.0,41.0,36.0,66.0,74.0
+218848,J. Sanguinetti,Argentina,"CAM, ST, RM",30,173,70,Right,66.0,69.0,62.0,64.0,39.0,63.0
+219625,F. Cardozo,Argentina,"LB, CB",26,182,81,Left,70.0,32.0,50.0,53.0,63.0,73.0
+220851,F. Leys,Argentina,"CDM, CM",27,177,70,Right,64.0,50.0,58.0,61.0,65.0,64.0
+222378,L. Suárez,Argentina,"LB, CB",26,181,82,Left,66.0,30.0,47.0,52.0,65.0,72.0
+222611,D. Rodríguez,Argentina,"CM, CDM, RM",25,171,67,Right,67.0,60.0,65.0,68.0,55.0,54.0
+224542,N. Leyes,Argentina,"CDM, CM",31,179,78,Right,54.0,49.0,56.0,56.0,63.0,76.0
+224854,L. Passerini,Argentina,ST,26,189,81,Right,43.0,66.0,46.0,56.0,28.0,73.0
+225519,L. Contin,Argentina,ST,25,183,78,Right,64.0,64.0,50.0,63.0,31.0,71.0
+228646,N. Delgadillo,Argentina,"LM, ST",23,177,70,Left,73.0,57.0,60.0,68.0,31.0,61.0
+229878,C. Lattanzio,Argentina,"LM, ST, RM",23,174,77,Left,73.0,65.0,63.0,64.0,41.0,55.0
+231222,F. Henríquez,Argentina,"CM, CDM",26,185,74,Left,63.0,56.0,63.0,65.0,58.0,73.0
+231258,R. Macagno,Argentina,GK,24,185,77,Right,,,,,,
+232343,J. Galeano,Argentina,"CM, RM",32,170,68,Right,55.0,50.0,62.0,62.0,63.0,67.0
+232697,L. Geminiani,Argentina,"RB, LB",30,172,65,Right,74.0,31.0,51.0,63.0,58.0,64.0
+233369,L. Montoya,Argentina,"LB, LM",26,170,73,Left,72.0,56.0,63.0,68.0,59.0,60.0
+234816,N. Gorosito,Argentina,CB,32,186,79,Right,57.0,50.0,57.0,53.0,63.0,75.0
+235049,I. Escobar,Argentina,LB,25,172,63,Left,83.0,35.0,54.0,63.0,60.0,63.0
+236281,F. Negri,Argentina,"LM, RM",26,174,76,Left,68.0,58.0,62.0,63.0,50.0,61.0
+236667,J. Iritier,Argentina,"LW, RM, LM",26,169,70,Right,68.0,57.0,60.0,69.0,30.0,51.0
+237575,J. Pourtau,Argentina,GK,21,193,87,Right,,,,,,
+238329,L. Pizarro,Argentina,"LM, CAM",23,186,75,Right,73.0,57.0,60.0,66.0,52.0,70.0
+239721,J. Lescano,Argentina,ST,28,187,79,Right,73.0,67.0,52.0,63.0,29.0,65.0
+240448,P. Ruiz,Argentina,"CDM, CM, LB",22,172,68,Left,66.0,57.0,59.0,64.0,65.0,55.0
+241044,M. Osores,Argentina,CB,24,190,78,Right,53.0,33.0,44.0,44.0,67.0,68.0
+242073,J. Blázquez,Argentina,GK,20,193,87,Right,,,,,,
+242362,L. Recalde,Argentina,CB,25,185,80,Left,53.0,29.0,41.0,50.0,67.0,67.0
+244757,A. Schott,Argentina,"RB, LB",21,175,72,Right,78.0,31.0,52.0,62.0,60.0,56.0
+244945,M. Capasso,Argentina,CB,25,188,87,Right,56.0,35.0,40.0,45.0,64.0,74.0
+245061,J. López,Argentina,"CM, CAM, CDM",21,182,72,Right,72.0,49.0,63.0,71.0,60.0,68.0
+245351,W. Pérez,Argentina,"LB, LM",22,175,76,Left,72.0,56.0,58.0,68.0,59.0,68.0
+245691,Á. Barreal,Argentina,"RW, RM",20,172,66,Left,79.0,63.0,57.0,69.0,41.0,55.0
+246547,F. Almada,Argentina,"CB, RB",22,180,72,Right,68.0,37.0,43.0,55.0,66.0,65.0
+246910,A. Obando,Argentina,LM,21,175,71,Left,74.0,58.0,58.0,68.0,31.0,54.0
+251686,D. Fernández,Argentina,CB,20,180,74,Right,72.0,33.0,44.0,56.0,64.0,72.0
+252192,A. Lagos,Argentina,"RB, RM",19,184,77,Right,64.0,31.0,46.0,59.0,64.0,62.0
+253129,G. Comas,Argentina,CM,23,174,70,Right,72.0,59.0,64.0,70.0,56.0,58.0
+253135,G. Florentín,Argentina,"CM, CAM",22,173,70,Right,68.0,59.0,64.0,68.0,57.0,63.0
+253396,G. Simeone,Argentina,"ST, LM",18,184,72,Right,74.0,66.0,49.0,64.0,25.0,69.0
+253715,D. Sarmiento,Argentina,"LM, RM",18,167,60,Left,77.0,61.0,58.0,71.0,36.0,42.0
+253952,J. Nardoni,Argentina,CM,18,169,59,Right,72.0,55.0,63.0,68.0,53.0,57.0
+254565,J. Indacoechea,Argentina,"RB, CM",20,172,71,Right,73.0,46.0,62.0,66.0,58.0,60.0
+254951,L. Ríos,Argentina,"CM, CDM",20,180,74,Right,64.0,51.0,61.0,64.0,62.0,58.0
+255971,S. Hezze,Argentina,CM,19,182,77,Right,63.0,48.0,64.0,64.0,57.0,71.0
+256408,S. Simón,Argentina,"RM, CAM",19,181,74,Right,73.0,56.0,62.0,66.0,50.0,57.0
+256502,A. Molinas,Argentina,CAM,20,175,67,Right,66.0,56.0,65.0,65.0,36.0,57.0
+256912,M. Guzmán,Argentina,CB,21,181,76,Right,64.0,43.0,44.0,53.0,66.0,68.0
+257154,M. Peralta Bauer,Argentina,"ST, RW",23,176,75,Right,72.0,62.0,52.0,63.0,31.0,68.0
+257185,L. Blanco,Argentina,"LB, LM",22,183,75,Left,73.0,40.0,53.0,64.0,60.0,64.0
+258095,J. Aude,Argentina,"LB, CDM",18,180,65,Left,71.0,46.0,59.0,73.0,59.0,64.0
+258289,J. Sforza,Argentina,"CM, CDM",19,180,76,Left,67.0,58.0,61.0,65.0,59.0,63.0
+258603,J. Navas,Argentina,"RB, CB",27,182,76,Right,70.0,40.0,49.0,60.0,64.0,64.0
+259504,N. Castro,Argentina,"CAM, LW, CM",20,186,76,Right,61.0,63.0,66.0,66.0,38.0,53.0
+259570,F. Orozco,Argentina,"LW, RW",19,168,61,Right,79.0,62.0,57.0,70.0,30.0,43.0
+260513,M. Gómez,Argentina,CDM,33,178,69,Right,64.0,50.0,65.0,61.0,60.0,65.0
+261016,J. Infante,Argentina,LB,25,177,76,Left,74.0,50.0,51.0,58.0,61.0,63.0
+261072,R. Enrique,Argentina,"ST, LW",20,171,68,Right,68.0,67.0,58.0,65.0,26.0,60.0
+261081,G. Benavídez,Argentina,RB,25,175,71,Right,65.0,36.0,52.0,59.0,63.0,59.0
+261152,A. Medina,Argentina,GK,34,181,79,Right,,,,,,
+261160,B. Sepúlveda,Argentina,ST,28,187,82,Right,55.0,67.0,48.0,60.0,28.0,66.0
+261161,M. Giménez,Argentina,ST,24,184,83,Right,52.0,68.0,42.0,57.0,28.0,74.0
+261172,F. Baldasarra,Argentina,"CM, RM, LM",22,178,75,Right,67.0,58.0,63.0,64.0,60.0,64.0
+263434,F. Mansilla,Argentina,CB,22,190,79,Left,55.0,31.0,43.0,51.0,67.0,63.0
+263518,A. Sández,Argentina,LB,20,181,78,Left,65.0,38.0,43.0,61.0,63.0,66.0
+176922,F. Assmann,Argentina,GK,35,190,82,Right,,,,,,
+184851,D. Vega,Argentina,GK,37,185,82,Left,,,,,,
+211271,A. Aguirre,Argentina,"CB, RB",27,182,89,Right,60.0,33.0,50.0,58.0,64.0,69.0
+215052,L. Kruspzky,Argentina,LB,29,175,71,Left,75.0,32.0,49.0,57.0,61.0,63.0
+215234,I. Quílez,Argentina,"RB, RWB, RM",31,179,76,Right,68.0,32.0,52.0,64.0,62.0,64.0
+216698,M. García,Argentina,"LM, CM",29,174,70,Left,71.0,60.0,60.0,63.0,34.0,46.0
+219845,G. Pereira,Argentina,"CAM, RM",27,178,73,Right,73.0,56.0,63.0,65.0,43.0,57.0
+222639,R. Ramírez,Argentina,GK,24,187,73,Right,,,,,,
+223501,A. Spörle,Argentina,"LB, LM",25,182,76,Left,73.0,55.0,58.0,61.0,59.0,69.0
+225858,M. Ledesma,Argentina,GK,24,191,81,Right,,,,,,
+226447,S. Echeverría,Argentina,"CB, RB",31,183,80,Left,60.0,23.0,40.0,38.0,67.0,66.0
+227148,F. Bonansea,Argentina,GK,23,185,78,Right,,,,,,
+232067,N. Bandiera,Argentina,"RW, RM",31,172,65,Right,74.0,60.0,53.0,66.0,22.0,44.0
+232712,J. Cascini,Argentina,"CDM, CM",24,171,68,Right,61.0,57.0,60.0,63.0,60.0,72.0
+232817,I. Chicco,Argentina,GK,25,183,80,Right,,,,,,
+233092,J. Pereyra,Argentina,"CDM, CM",22,181,73,Left,63.0,55.0,62.0,64.0,57.0,67.0
+233892,T. Sandoval,Argentina,ST,22,185,71,Right,66.0,61.0,45.0,64.0,29.0,68.0
+237576,N. Insfrán,Argentina,GK,26,179,83,Right,,,,,,
+241120,N. Demartini,Argentina,CB,21,187,73,Right,66.0,29.0,41.0,47.0,65.0,69.0
+241848,A. Heredia,Argentina,CB,24,193,83,Right,58.0,32.0,39.0,43.0,64.0,67.0
+243476,M. Borgogno,Argentina,GK,22,187,74,Right,,,,,,
+244995,L. Trejo,Argentina,"CB, LB",33,183,78,Left,60.0,25.0,41.0,44.0,65.0,67.0
+246546,T. Ortíz,Argentina,CM,21,183,78,Right,78.0,53.0,64.0,71.0,55.0,56.0
+247021,I. Smith,Argentina,"CM, CAM",22,174,68,Right,64.0,53.0,62.0,66.0,53.0,48.0
+247081,N. Romero,Argentina,LB,21,172,69,Left,82.0,33.0,50.0,60.0,58.0,63.0
+252188,E. Maciel,Argentina,"CDM, CM",24,180,74,Left,55.0,43.0,63.0,59.0,59.0,63.0
+253244,I. Don,Argentina,GK,39,181,76,Right,,,,,,
+253734,F. Manenti,Argentina,CB,24,185,75,Right,56.0,39.0,45.0,52.0,65.0,64.0
+254228,O. Salomón,Argentina,CB,22,181,82,Right,62.0,33.0,47.0,50.0,66.0,66.0
+255028,L. Torres,Argentina,"CM, CDM",24,178,70,Right,66.0,49.0,62.0,65.0,56.0,65.0
+255217,F. Monzón,Argentina,ST,20,185,79,Right,64.0,66.0,49.0,58.0,28.0,63.0
+255333,M. Pérez,Argentina,CB,21,183,75,Right,58.0,35.0,43.0,43.0,64.0,67.0
+255462,T. Banega,Argentina,CM,22,177,67,Right,69.0,57.0,65.0,68.0,48.0,60.0
+256503,G. Gerzel,Argentina,"LM, LW",21,167,72,Left,74.0,61.0,54.0,67.0,24.0,48.0
+257151,P. Argañaraz,Argentina,ST,22,173,69,Right,77.0,62.0,49.0,64.0,27.0,60.0
+257380,F. Flores,Argentina,CB,19,182,76,Right,67.0,34.0,55.0,60.0,64.0,67.0
+257549,L. Brochero,Argentina,"RW, LW, LM",22,172,70,Right,80.0,63.0,55.0,67.0,31.0,47.0
+257866,N. Fernández Mercau,Argentina,"LM, LWB, LB",21,172,66,Left,76.0,53.0,58.0,65.0,56.0,57.0
+258124,N. González,Argentina,LM,22,168,68,Right,70.0,61.0,60.0,67.0,28.0,47.0
+259273,T. Marchiori,Argentina,GK,26,186,84,Right,,,,,,
+259486,L. Ferreyra,Argentina,"LM, CAM",19,171,71,Right,86.0,60.0,55.0,67.0,24.0,48.0
+259787,L. Esquivel,Argentina,"LWB, LB",19,175,75,Left,78.0,42.0,52.0,59.0,58.0,63.0
+260233,M. Di Cesare,Argentina,CB,19,186,81,Left,62.0,31.0,41.0,42.0,67.0,67.0
+260542,M. Cortave,Argentina,"CB, RB",29,190,86,Right,61.0,36.0,53.0,51.0,64.0,71.0
+260601,E. Zeballos,Argentina,RM,19,170,68,Right,77.0,53.0,56.0,69.0,31.0,42.0
+260704,B. Salvareschi,Argentina,CB,22,183,71,Right,65.0,27.0,44.0,51.0,64.0,66.0
+261000,R. Ríos,Argentina,CM,25,175,67,Right,69.0,57.0,63.0,63.0,55.0,57.0
+261019,R. Bochi,Argentina,"CDM, CM",31,175,68,Right,76.0,45.0,59.0,64.0,61.0,58.0
+261066,B. Nievas,Argentina,"CDM, CM",23,180,77,Right,56.0,40.0,60.0,59.0,62.0,67.0
+261273,D. Juárez,Argentina,"RW, ST",19,174,64,Right,80.0,64.0,51.0,68.0,28.0,57.0
+261350,N. Zeineddin,Argentina,ST,21,182,79,Right,69.0,65.0,48.0,63.0,34.0,52.0
+263365,A. Martínez,Argentina,"LM, RM",23,170,70,Left,77.0,51.0,55.0,70.0,33.0,57.0
+264323,F. Peña Biafore,Argentina,"CDM, CB",20,179,71,Right,70.0,45.0,60.0,60.0,64.0,65.0
+264406,L. Spatz,Argentina,"CB, RB",19,184,75,Right,57.0,42.0,51.0,44.0,64.0,65.0
+200197,N. Blandi,Argentina,ST,31,181,76,Right,56.0,65.0,56.0,60.0,37.0,59.0
+215130,N. Ibáñez,Argentina,GK,39,185,85,Right,,,,,,
+217199,P. Matricardi,Argentina,CB,27,189,85,Right,51.0,32.0,38.0,39.0,62.0,76.0
+219492,M. de Iriondo,Argentina,"CDM, CM",28,179,75,Right,66.0,54.0,56.0,59.0,61.0,74.0
+219518,P. Becker,Argentina,"CM, RM, CAM",28,173,72,Right,76.0,57.0,67.0,67.0,48.0,56.0
+226424,L. Garnier,Argentina,"RB, CB",38,172,73,Right,63.0,40.0,51.0,61.0,60.0,67.0
+233920,N. Franco,Argentina,ST,25,183,85,Right,57.0,64.0,43.0,56.0,27.0,66.0
+235780,A. Sosa,Argentina,CB,21,177,76,Right,48.0,35.0,39.0,42.0,65.0,60.0
+236633,J. Bauza,Argentina,"CAM, RW, LW",25,177,75,Right,75.0,59.0,62.0,65.0,40.0,68.0
+237875,R. Schlegel,Argentina,CB,24,180,82,Right,51.0,32.0,33.0,36.0,64.0,75.0
+237993,J. Acevedo,Argentina,"CAM, LM",24,172,70,Left,69.0,64.0,58.0,65.0,30.0,52.0
+238036,B. Cejas,Argentina,"CAM, RM, RW",23,175,70,Right,71.0,59.0,61.0,63.0,48.0,58.0
+238093,M. Tagliamonte,Argentina,GK,23,193,85,Left,,,,,,
+238127,M. Tissera,Argentina,ST,24,180,72,Right,56.0,64.0,48.0,63.0,23.0,63.0
+240405,J. González,Argentina,"RB, RWB, RM",24,175,73,Right,66.0,35.0,51.0,58.0,60.0,58.0
+240457,A. Maciel,Argentina,CB,24,183,87,Right,55.0,28.0,36.0,43.0,64.0,69.0
+241567,A. Aguirre,Argentina,"CB, RB",21,184,77,Right,52.0,31.0,38.0,47.0,63.0,69.0
+243810,L. Ingolotti,Argentina,GK,21,184,84,Right,,,,,,
+244758,R. Paparelli,Argentina,CB,24,184,85,Right,49.0,31.0,40.0,48.0,64.0,66.0
+244953,C. Pombo,Argentina,CM,27,170,65,Right,60.0,59.0,61.0,63.0,51.0,52.0
+246258,L. Beltrán,Argentina,"ST, RW",20,176,77,Right,67.0,61.0,54.0,63.0,22.0,59.0
+246611,F. Pérez,Argentina,"ST, RW",22,179,72,Right,64.0,62.0,53.0,67.0,29.0,53.0
+246986,E. Ramírez,Argentina,ST,22,168,66,Right,77.0,64.0,46.0,64.0,22.0,47.0
+248231,H. López Muñoz,Argentina,"CAM, LM, RM",20,168,67,Left,77.0,58.0,58.0,69.0,35.0,48.0
+251303,J. Passaglia,Argentina,"CM, CDM",32,181,75,Left,67.0,52.0,60.0,60.0,55.0,60.0
+251651,L. Vázquez,Argentina,ST,20,190,78,Right,65.0,63.0,48.0,59.0,26.0,64.0
+254416,M. Ovejero,Argentina,ST,34,170,72,Right,82.0,64.0,58.0,68.0,35.0,47.0
+254586,A. Marinelli,Argentina,LM,22,174,70,Left,78.0,58.0,57.0,66.0,35.0,48.0
+254695,F. Ibarra,Argentina,CM,20,175,69,Right,67.0,47.0,58.0,62.0,61.0,61.0
+255352,F. Lo Celso,Argentina,"CAM, LM, CM",21,178,70,Left,68.0,53.0,65.0,63.0,57.0,51.0
+255972,S. Ramírez,Argentina,RM,20,180,75,Right,75.0,54.0,57.0,63.0,32.0,56.0
+256501,E. Roldán,Argentina,"RW, RM",20,176,70,Right,77.0,61.0,56.0,67.0,35.0,55.0
+256525,F. Versaci,Argentina,"LW, RW, CAM",19,170,63,Left,78.0,62.0,54.0,66.0,27.0,46.0
+257407,R. Lozano,Argentina,RB,23,179,79,Right,73.0,39.0,52.0,61.0,58.0,60.0
+258149,A. Cantero,Argentina,ST,23,184,80,Right,63.0,64.0,49.0,62.0,26.0,62.0
+258216,S. Cocimano,Argentina,ST,21,188,80,Right,49.0,63.0,50.0,57.0,32.0,67.0
+258291,M. Llano,Argentina,"RB, RM",21,184,73,Right,70.0,42.0,57.0,62.0,56.0,62.0
+258574,N. Banegas,Argentina,"LB, CB",24,176,80,Left,68.0,37.0,52.0,55.0,62.0,68.0
+259136,A. Sabella,Argentina,"CM, CAM",20,178,72,Right,64.0,57.0,63.0,64.0,55.0,63.0
+259209,M. Bajamich,Argentina,"RW, ST, CAM",21,178,75,Right,70.0,60.0,52.0,63.0,27.0,59.0
+260663,G. Torres,Argentina,CAM,21,170,64,Right,66.0,62.0,59.0,67.0,52.0,52.0
+260826,R. Cabral,Argentina,"RW, RM",20,170,64,Right,75.0,58.0,56.0,67.0,26.0,46.0
+261137,M. Rogoski,Argentina,"CM, RM, LM",27,176,72,Right,59.0,51.0,63.0,58.0,58.0,64.0
+261174,R. Sangiovani,Argentina,"RB, CM, CDM",23,168,66,Right,64.0,33.0,54.0,60.0,62.0,62.0
+261261,J. Giani,Argentina,LM,22,180,69,Right,71.0,60.0,59.0,62.0,25.0,53.0
+261364,D. Giménez,Argentina,"CDM, CM",24,175,72,Right,65.0,54.0,61.0,61.0,61.0,63.0
+261398,N. Iribarren,Argentina,CB,33,182,82,Right,54.0,37.0,44.0,44.0,63.0,67.0
+261402,R. Morales,Argentina,"CDM, CM",27,175,71,Right,62.0,54.0,60.0,60.0,62.0,60.0
+261427,J. Lencinas,Argentina,"CB, RB",33,184,80,Right,64.0,27.0,53.0,53.0,63.0,68.0
+261438,S. Rosane,Argentina,"CDM, CM",21,177,68,Right,57.0,47.0,54.0,55.0,61.0,69.0
+261443,R. Sordo,Argentina,RM,21,174,69,Right,69.0,58.0,59.0,63.0,33.0,48.0
+261620,A. Bustos,Argentina,CM,22,169,72,Right,66.0,56.0,61.0,63.0,58.0,49.0
+262240,T. Galván,Argentina,CAM,21,172,65,Right,75.0,59.0,60.0,68.0,35.0,45.0
+263204,M. Mansilla,Argentina,GK,25,188,80,Right,,,,,,
+263370,V. Barco,Argentina,LB,16,172,68,Left,64.0,32.0,54.0,64.0,58.0,51.0
+263475,F. Russo,Argentina,RM,20,175,70,Right,70.0,56.0,58.0,64.0,31.0,46.0
+263504,B. Leyes,Argentina,"CM, CDM",19,173,76,Left,74.0,52.0,57.0,65.0,54.0,65.0
+263671,L. Vega,Argentina,"CM, CAM",22,186,78,Right,65.0,47.0,65.0,62.0,51.0,65.0
+165787,J. Ortiz,Argentina,"CM, CDM",37,180,74,Right,65.0,56.0,62.0,60.0,59.0,71.0
+173244,C. Taborda,Argentina,GK,37,189,87,Right,,,,,,
+217202,L. Rinaldi,Argentina,ST,27,180,75,Right,70.0,62.0,54.0,64.0,24.0,64.0
+226024,M. Romero,Argentina,"CM, RM, RB",25,179,72,Right,72.0,55.0,57.0,65.0,58.0,62.0
+237923,A. Domínguez,Argentina,ST,24,186,82,Right,64.0,61.0,49.0,53.0,27.0,74.0
+241027,B. Galván,Argentina,"LM, LWB, RM",20,166,64,Left,78.0,55.0,58.0,62.0,43.0,58.0
+241878,D. Mercado,Argentina,"CDM, CM",24,169,71,Right,56.0,48.0,57.0,61.0,58.0,60.0
+243469,C. Parano,Argentina,LM,21,178,68,Right,66.0,53.0,59.0,66.0,35.0,45.0
+252785,A. Álvarez,Argentina,RB,21,175,65,Right,73.0,38.0,50.0,63.0,57.0,55.0
+253384,C. Ibañez,Argentina,LB,21,179,75,Left,69.0,27.0,48.0,56.0,59.0,64.0
+255453,J. Cruz,Argentina,ST,21,184,71,Right,61.0,63.0,42.0,57.0,27.0,62.0
+257153,A. Hausch,Argentina,"LW, ST",18,175,65,Right,81.0,59.0,51.0,63.0,29.0,45.0
+257350,J. Flere,Argentina,GK,23,182,68,Right,,,,,,
+258283,J. Pacchini,Argentina,CDM,21,166,67,Right,67.0,37.0,56.0,58.0,62.0,65.0
+259537,M. Coronel,Argentina,"ST, CAM",22,172,70,Right,71.0,59.0,51.0,63.0,36.0,55.0
+260562,L. Besozzi,Argentina,"LW, RW",18,176,70,Right,66.0,59.0,58.0,63.0,27.0,46.0
+261094,N. Previtali,Argentina,"CDM, CM",25,184,81,Right,63.0,43.0,55.0,56.0,57.0,68.0
+261173,F. Ferrero,Argentina,GK,25,185,82,Right,,,,,,
+261442,M. Sosa,Argentina,RW,19,179,77,Right,69.0,60.0,57.0,64.0,25.0,50.0
+261619,B. Palazzo,Argentina,CB,20,184,76,Right,55.0,30.0,43.0,44.0,62.0,68.0
+261768,J. Eseiza,Argentina,LWB,19,185,74,Left,62.0,33.0,49.0,57.0,63.0,65.0
+262148,N. Garayalde,Argentina,"CM, CAM",21,182,76,Right,65.0,53.0,65.0,62.0,45.0,48.0
+263156,G. Miceli,Argentina,CDM,23,169,66,Right,65.0,40.0,62.0,64.0,57.0,50.0
+232816,A. Rivero,Argentina,GK,23,189,74,Right,,,,,,
+248145,K. Isa,Argentina,"ST, LM",20,178,71,Right,68.0,60.0,50.0,63.0,23.0,54.0
+254222,B. Farioli,Argentina,"LM, CAM, RM",23,180,70,Left,71.0,51.0,59.0,62.0,32.0,48.0
+254959,F. Torres,Argentina,CB,22,179,66,Right,60.0,32.0,42.0,43.0,64.0,56.0
+258071,G. Tanco,Argentina,CB,21,181,74,Left,62.0,32.0,43.0,49.0,62.0,60.0
+258103,M. Tanlongo,Argentina,"RM, CM",17,178,68,Right,64.0,56.0,58.0,63.0,54.0,54.0
+258284,T. Pozzo,Argentina,"CAM, CM",20,168,68,Left,69.0,49.0,60.0,68.0,40.0,48.0
+258456,L. Giaccone,Argentina,"LM, CAM",20,175,68,Right,70.0,53.0,55.0,67.0,31.0,48.0
+259810,E. Obregón,Argentina,"RM, CAM",19,177,69,Right,72.0,59.0,56.0,64.0,31.0,48.0
+259899,J. Romero,Argentina,GK,23,183,78,Right,,,,,,
+260561,K. Lomónaco,Argentina,CB,19,192,80,Right,61.0,27.0,33.0,38.0,62.0,66.0
+260705,F. Castet,Argentina,LB,22,177,68,Left,70.0,29.0,48.0,58.0,56.0,62.0
+261083,B. Valdez,Argentina,LB,19,175,67,Left,73.0,42.0,48.0,58.0,59.0,61.0
+261349,L. Cingolani,Argentina,RW,20,172,67,Right,74.0,59.0,54.0,61.0,25.0,42.0
+261352,N. Laméndola,Argentina,"RM, CM",22,178,69,Right,64.0,53.0,58.0,62.0,50.0,51.0
+261690,R. Di Luciano,Argentina,RB,17,164,59,Right,62.0,32.0,47.0,54.0,57.0,44.0
+261691,I. Rodríguez,Argentina,CM,19,175,68,Left,56.0,56.0,60.0,63.0,51.0,41.0
+262283,A. Rodríguez,Argentina,"CAM, LW, CF",17,169,62,Right,68.0,43.0,60.0,65.0,40.0,45.0
+263296,L. Gondou,Argentina,ST,20,189,84,Left,53.0,61.0,46.0,56.0,25.0,60.0
+263418,L. Varaldo,Argentina,ST,19,176,69,Right,64.0,65.0,45.0,58.0,23.0,63.0
+263498,L. Martinez,Argentina,GK,19,188,85,Right,,,,,,
+263500,F. Romero,Argentina,"CDM, CM",21,177,70,Right,63.0,50.0,58.0,62.0,56.0,59.0
+263718,F. Paradela,Argentina,CM,22,178,74,Right,64.0,53.0,60.0,65.0,47.0,51.0
+264147,N. Palavecino,Argentina,"LM, CAM",18,186,77,Left,61.0,63.0,61.0,61.0,46.0,53.0
+214666,F. Vázquez,Argentina,CM,27,183,76,Right,57.0,46.0,55.0,61.0,60.0,71.0
+226496,N. Miracco,Argentina,ST,30,175,70,Right,64.0,61.0,62.0,62.0,31.0,49.0
+233440,F. Antonini,Argentina,RM,23,179,73,Right,61.0,52.0,60.0,57.0,35.0,64.0
+240955,T. Durso,Argentina,GK,22,185,80,Right,,,,,,
+241099,L. Finochietto,Argentina,GK,24,182,81,Right,,,,,,
+242917,L. Chávez,Argentina,"ST, RM",20,170,65,Right,62.0,61.0,51.0,65.0,26.0,41.0
+245057,R. Ferrario,Argentina,GK,21,186,76,Right,,,,,,
+245255,J. Marcioni,Argentina,"RM, RW",23,176,70,Right,64.0,53.0,53.0,62.0,33.0,53.0
+246305,T. Moschión,Argentina,CDM,21,171,66,Right,56.0,44.0,57.0,59.0,59.0,54.0
+246843,E. González,Argentina,GK,25,193,88,Right,,,,,,
+247105,T. Canteros,Argentina,GK,19,183,73,Right,,,,,,
+247295,J. Hass,Argentina,GK,23,186,88,Right,,,,,,
+252194,C. Albornoz,Argentina,CB,20,183,73,Right,51.0,44.0,57.0,55.0,60.0,52.0
+253216,Adrián,Argentina,GK,20,195,83,Right,,,,,,
+255065,T. Cantoro,Argentina,ST,20,177,75,Right,60.0,61.0,44.0,60.0,25.0,63.0
+256267,M. Montenegro,Argentina,"CDM, CB",22,181,77,Right,53.0,43.0,55.0,57.0,59.0,59.0
+257152,L. Sequeira,Argentina,"CAM, CF, RW",18,172,69,Right,66.0,54.0,59.0,62.0,34.0,49.0
+257985,L. Amadé,Argentina,GK,21,193,87,Right,,,,,,
+258080,M. González,Argentina,"CAM, CM",19,173,62,Right,64.0,48.0,59.0,64.0,49.0,42.0
+258084,C. Ibarra,Argentina,LB,17,175,70,Left,69.0,40.0,49.0,63.0,54.0,56.0
+258087,G. Gozálvez,Argentina,LM,18,181,77,Left,67.0,60.0,53.0,63.0,40.0,54.0
+258089,L. Quiroz,Argentina,CB,17,183,76,Left,51.0,31.0,42.0,48.0,61.0,64.0
+258104,G. Infantino,Argentina,"LM, CAM",18,179,74,Left,70.0,57.0,55.0,65.0,32.0,46.0
+258176,P. Oro,Argentina,ST,18,183,71,Right,66.0,62.0,49.0,64.0,23.0,48.0
+258288,W. Barlasina,Argentina,GK,23,196,87,Right,,,,,,
+259198,M. Córdoba,Argentina,ST,22,170,64,Right,66.0,58.0,57.0,61.0,29.0,63.0
+259270,R. Luna,Argentina,"RW, LW",25,178,79,Left,66.0,53.0,57.0,60.0,37.0,60.0
+259271,I. Gariglio,Argentina,CB,23,184,75,Right,51.0,26.0,39.0,35.0,63.0,61.0
+259598,D. Verón,Argentina,CM,20,183,75,Right,66.0,52.0,57.0,58.0,53.0,67.0
+259971,N. Guzmán,Argentina,"RM, LM",21,171,66,Right,66.0,48.0,54.0,61.0,30.0,44.0
+260667,F. Kruspzky,Argentina,CAM,18,181,74,Right,65.0,47.0,61.0,64.0,41.0,48.0
+260706,B. Borasi,Argentina,"RM, LM",23,170,64,Right,72.0,57.0,52.0,63.0,28.0,47.0
+261014,A. Desábato,Argentina,GK,31,183,79,Right,,,,,,
+261096,L. Ambrogio,Argentina,RM,22,181,72,Right,62.0,60.0,56.0,63.0,31.0,46.0
+261155,M. Garay,Argentina,"RM, RWB",22,166,67,Right,76.0,42.0,50.0,64.0,54.0,44.0
+261157,M. Palavecino,Argentina,"CAM, LM",23,180,74,Right,66.0,52.0,58.0,63.0,44.0,54.0
+261181,M. Mamaní,Argentina,ST,19,170,60,Right,59.0,63.0,49.0,64.0,23.0,38.0
+261183,G. Álvez,Argentina,RM,17,169,66,Right,68.0,52.0,55.0,65.0,25.0,39.0
+261503,J. Duche,Argentina,LM,29,174,69,Left,73.0,45.0,55.0,62.0,34.0,52.0
+261614,J. Gho,Argentina,RM,18,178,76,Right,64.0,59.0,56.0,64.0,32.0,49.0
+261826,G. Iturra,Argentina,CM,22,167,63,Right,64.0,50.0,57.0,62.0,53.0,62.0
+261884,D. Calcaterra,Argentina,"CB, CDM",19,189,79,Right,58.0,33.0,44.0,49.0,59.0,67.0
+262865,F. Sanguinetti,Argentina,GK,20,184,71,Right,,,,,,
+263474,F. Torres,Argentina,ST,22,180,70,Right,56.0,62.0,47.0,59.0,22.0,47.0
+263501,B. Kociubinski,Argentina,"CDM, CM",20,180,78,Right,61.0,49.0,58.0,57.0,54.0,62.0
+263502,F. Zapiola,Argentina,"CAM, CM",20,176,70,Right,65.0,48.0,62.0,63.0,46.0,49.0
+263756,R. Márquez,Argentina,ST,18,179,70,Right,71.0,62.0,45.0,61.0,24.0,49.0
+263862,M. Valor,Argentina,LB,21,185,83,Left,66.0,34.0,38.0,55.0,60.0,66.0
+264031,M. Rosales,Argentina,"CM, CAM",22,181,72,Right,62.0,46.0,61.0,60.0,50.0,58.0
+264148,P. Pérez,Argentina,"CM, CAM",20,175,72,Left,62.0,58.0,58.0,59.0,50.0,55.0
+264149,C. Geist,Argentina,GK,22,192,88,Right,,,,,,
+203863,L. Fariña,Argentina,"CAM, LW",30,177,72,Right,64.0,57.0,60.0,62.0,47.0,51.0
+233030,F. Pizzicanella,Argentina,GK,25,183,84,Right,,,,,,
+244643,P. Gómez,Argentina,"LM, LW",23,166,63,Left,81.0,63.0,52.0,59.0,27.0,51.0
+246841,N. Forastiero,Argentina,GK,22,182,81,Right,,,,,,
+261112,P. Ostachuk,Argentina,CB,21,185,76,Right,66.0,48.0,52.0,53.0,56.0,62.0
+261369,P. Minissale,Argentina,CB,20,179,72,Right,56.0,30.0,36.0,41.0,60.0,61.0
+262083,A. Martegani,Argentina,"CAM, CM, LM",21,183,74,Left,63.0,50.0,62.0,60.0,49.0,50.0
+262339,G. Luján,Argentina,"CB, RB",20,182,82,Right,59.0,30.0,45.0,52.0,59.0,64.0
+262718,F. Ravizzoli,Argentina,GK,23,188,83,Right,,,,,,
+263416,D. Gómez,Argentina,CM,19,180,70,Right,61.0,43.0,58.0,61.0,55.0,61.0
+263451,F. Galván,Argentina,ST,21,190,83,Left,56.0,57.0,46.0,58.0,26.0,62.0
+252480,M. Pochettino,Argentina,RM,20,182,73,Right,76.0,49.0,52.0,55.0,32.0,41.0
+261501,F. Torres,Argentina,RM,24,174,68,Right,63.0,46.0,51.0,52.0,23.0,60.0
+261684,G. Machado,Argentina,CDM,20,175,72,Right,66.0,36.0,47.0,49.0,50.0,60.0
+264154,S. Visentin,Argentina,CB,22,187,80,Right,55.0,25.0,29.0,31.0,57.0,64.0
