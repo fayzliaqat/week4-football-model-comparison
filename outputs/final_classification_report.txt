@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+    Defender     0.8710    0.9474    0.9076        57
+  Midfielder     0.8429    0.7867    0.8138        75
+     Forward     0.8049    0.8049    0.8049        41
+
+    accuracy                         0.8439       173
+   macro avg     0.8396    0.8463    0.8421       173
+weighted avg     0.8431    0.8439    0.8426       173
